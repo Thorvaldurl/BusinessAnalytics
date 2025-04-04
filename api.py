@@ -13,6 +13,7 @@ response = requests.get(url, headers=headers)
 
 if response.status_code == 200:
     data = response.json()
+    print(data)
     print("Data fetched successfully:")
 else:
     print("Error:", response.status_code)
