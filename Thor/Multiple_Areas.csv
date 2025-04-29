@@ -1,0 +1,905 @@
+zip_code,broad_category,least_category,mid_category,fine_category,final_category,original_price,new_price,discount
+8000,Dairy And Cold Storage,Ready To Eat Meals,Sandwiches Wraps,Unknown,Sandwiches Wraps,22.95,14,8.95
+8000,Bread And Cakes,Crackers Crisp Bread,Crisp Bread,Unknown,Crisp Bread,25,16,9
+8000,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,25,13,12
+8000,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,14.95,8,6.95
+8000,Bread And Cakes,Rye Breads,Rye Breads With Carrots,Unknown,Rye Breads With Carrots,14.95,8,6.95
+8000,Meat Fish,Pork,Pork Chops Pork Schnitzels,Unknown,Pork Chops Pork Schnitzels,39.95,23,16.95
+8000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,41.95,21,20.95
+8000,Bread And Cakes,Light Breads Dark Breads,Whole Breads,Unknown,Whole Breads,24.95,10,14.95
+8000,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,23.95,13,10.95
+8000,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,21.95,8,13.95
+8000,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,25,13,12
+8000,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,18.95,8,10.95
+8000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,32,13,19
+8000,Bread And Cakes,Rye Breads,Other Rye Breads,Unknown,Other Rye Breads,23.95,9,14.95
+8000,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,15.95,8,7.95
+8000,Bread And Cakes,Light Breads Dark Breads,Whole Breads,Unknown,Whole Breads,20,11,9
+8000,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,23.95,13,10.95
+8000,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,14.95,9,5.95
+8000,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,19.95,15,4.95
+8000,Dairy And Cold Storage,Lunch Meats,Meat,Salami,Salami,10.95,8,2.95
+8000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Salads,Unknown,Dinner Salads,19.95,8,11.95
+8000,Dairy And Cold Storage,Fresh Dough And Pancakes,fresh Dough,Unknown,fresh Dough,14.95,11,3.95
+8000,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,25.95,13,12.95
+8000,Dairy And Cold Storage,Lunch Meats,Meat,Corned Beef,Corned Beef,13.5,7,6.5
+8000,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,29.95,15,14.95
+8000,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,19.95,15,4.95
+8000,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,14.95,9,5.95
+8000,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,12.95,10,2.95
+8000,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,22.75,12,10.75
+8000,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Fish Mayo Salads,Fish Mayo Salads,12,9,3
+8000,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Poultry Mayo Salads,Poultry Mayo Salads,12,9,3
+8000,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Poultry Mayo Salads,Poultry Mayo Salads,12,9,3
+8000,Unknown,Unknown,Unknown,Unknown,Unknown,25,15,10
+8000,Unknown,Unknown,Unknown,Unknown,Unknown,32,23,9
+8000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,29.95,15,14.95
+8000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,14.95,11,3.95
+8000,Dairy And Cold Storage,Lunch Meats,Meat,Smoked Saddle Of Pork,Smoked Saddle Of Pork,17.95,14,3.95
+8000,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,17.95,12,5.95
+8000,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,14.5,11,3.5
+8000,Dairy And Cold Storage,Tapas Specialities,Cold Cuts Specialities,Unknown,Cold Cuts Specialities,29.95,23,6.95
+8000,Unknown,Unknown,Unknown,Unknown,Unknown,16.95,13,3.95
+8000,Unknown,Unknown,Unknown,Unknown,Unknown,39.95,31,8.95
+8000,Dairy And Cold Storage,Bacon Sausages Toppings,Bacon,Sliced Bacon,Sliced Bacon,31.95,18,13.95
+8000,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,32.95,25,7.95
+8000,Dairy And Cold Storage,Dairy,Plant Based Alternatives,Plant Based Yoghurt Alternatives,Plant Based Yoghurt Alternatives,21.5,17,4.5
+8000,Unknown,Unknown,Unknown,Unknown,Unknown,35,18,17
+8000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,42.95,27,15.95
+8000,Beverages,Juice Smoothies,Smoothies,Unknown,Smoothies,19.95,15,4.95
+8000,Dairy And Cold Storage,Dairy,Cold Butter Milk Soup,Unknown,Cold Butter Milk Soup,19,8,11
+8000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Drinking Yoghurt Kids Yoghurt,Drinking Yoghurt Kids Yoghurt,21.95,17,4.95
+8000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Drinking Yoghurt Kids Yoghurt,Drinking Yoghurt Kids Yoghurt,5,3,2
+8000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,7.95,4,3.95
+8000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Drinking Yoghurt Kids Yoghurt,Drinking Yoghurt Kids Yoghurt,16.5,13,3.5
+8000,Dairy And Cold Storage,Ready To Eat Meals,Sandwiches Wraps,Unknown,Sandwiches Wraps,22.95,18,4.95
+8000,Dairy And Cold Storage,Ready To Eat Meals,Sandwiches Wraps,Unknown,Sandwiches Wraps,21.95,18,3.95
+8000,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,29.95,18,11.95
+8000,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,19.95,15,4.95
+8000,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,17.95,9,8.95
+8000,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,29.95,15,14.95
+8000,Meat Fish,Pork,Roasted Whole Pork Pieces,Pork Neck Pork Loin,Pork Neck Pork Loin,32.95,26,6.95
+8000,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,21.95,12,9.95
+8000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,24.95,13,11.95
+8000,Meat Fish,Pork,Other Pork,Unknown,Other Pork,49.95,36,13.95
+8000,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Ham,Cold Cuts Ham,22.95,12,10.95
+8000,Dairy And Cold Storage,Lunch Meats,Meat Balls,Unknown,Meat Balls,19.95,15,4.95
+8000,Dairy And Cold Storage,Potato Accessories,potato Salad,Unknown,potato Salad,29.95,16,13.95
+8000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,19.95,13,6.95
+8000,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,14.95,11,3.95
+8000,Dairy And Cold Storage,Dairy,Cream Whipped Cream,Whipping Cream,Whipping Cream,16.5,9,7.5
+8000,Dairy And Cold Storage,Ready To Eat Meals,Sandwiches Wraps,Unknown,Sandwiches Wraps,22.95,12,10.95
+8000,Dairy And Cold Storage,Ready To Eat Meals,Sandwiches Wraps,Unknown,Sandwiches Wraps,22.95,18,4.95
+8000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Salads,Unknown,Dinner Salads,23.95,16,7.95
+8000,Dairy And Cold Storage,Dairy,Cheese,Sliced Cheese,Sliced Cheese,34.95,18,16.95
+8000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,29.95,15,14.95
+8000,Dairy And Cold Storage,Dairy,Cheese,Cottage Cheese,Cottage Cheese,14.95,9,5.95
+8000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,18.95,11,7.95
+8000,Unknown,Unknown,Unknown,Unknown,Unknown,22,11,11
+8000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Buttermilk,Buttermilk,13.75,8,5.75
+8000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Soured Milk,Soured Milk,19.95,11,8.95
+8000,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Chicken Sausages,Chicken Sausages,39.95,31,8.95
+8000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,17.95,14,3.95
+8000,Dairy And Cold Storage,Dairy,Cheese,Cream Cheese,Cream Cheese,25,15,10
+8000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,29.95,15,14.95
+8000,Meat Fish,Pork,Roasted Whole Pork Pieces,Pork Tenderloin,Pork Tenderloin,44.95,35,9.95
+2400,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,25.5,13,12.5
+2400,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Drinking Yoghurt Kids Yoghurt,Drinking Yoghurt Kids Yoghurt,20,15,5
+2400,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Italian Mayo Salads,Italian Mayo Salads,12,9,3
+2400,Dairy And Cold Storage,Fresh Pasta,Fresh Pasta With Fillings,Unknown,Fresh Pasta With Fillings,23.95,12,11.95
+2400,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Fish Mayo Salads,Fish Mayo Salads,19.95,10,9.95
+2400,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,17.95,9,8.95
+2400,Unknown,Unknown,Unknown,Unknown,Unknown,15,6,9
+2400,Dairy And Cold Storage,Dairy,Milk,Nonfat Milk,Nonfat Milk,13.75,10,3.75
+2400,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Soured Milk,Soured Milk,19.95,13,6.95
+2400,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,25,13,12
+2400,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,17.95,9,8.95
+2400,Dairy And Cold Storage,Bacon Sausages Toppings,Other Toppings,Unknown,Other Toppings,8,6,2
+2400,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,15.95,8,7.95
+2400,Beverages,Juice Smoothies,Apple Juices,Unknown,Apple Juices,20,15,5
+2400,Beverages,Juice Smoothies,Multi Fruit Juices,Unknown,Multi Fruit Juices,20,15,5
+2400,Dairy And Cold Storage,Lunch Meats,Meat,Smoked Saddle Of Pork,Smoked Saddle Of Pork,15.95,8,7.95
+2400,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Other Mayo Salads,Other Mayo Salads,12,9,3
+2400,Dairy And Cold Storage,Lunch Meats,Meat,Salami,Salami,15.95,8,7.95
+2000,Unknown,Unknown,Unknown,Unknown,Unknown,59.9,32.95,26.95
+2000,Meat Fish,Pork,Roasted Whole Pork Pieces,Roasted Pork,Roasted Pork,69,25,44
+2000,Meat Fish,Pork,Minced Pork,Unknown,Minced Pork,44.95,20,24.95
+2000,Meat Fish,Pork,Minced Pork,Unknown,Minced Pork,40,20,20
+2000,Unknown,Unknown,Unknown,Unknown,Unknown,69.9,46.83,23.07
+2000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,99,69,30
+2000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,99,75,24
+2000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,59,45,14
+2000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,89,70,19
+2000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,59,25,34
+2000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,59,45,14
+2000,Unknown,Unknown,Unknown,Unknown,Unknown,59,39,20
+2000,Unknown,Unknown,Unknown,Unknown,Unknown,65,36,29
+2000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,59,45,14
+2000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,59,45,14
+2000,Unknown,Unknown,Unknown,Unknown,Unknown,79.9,31.16,48.74
+2000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,89,70,19
+2000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,59,30,29
+2000,Unknown,Unknown,Unknown,Unknown,Unknown,65,39,26
+2000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,89,70,19
+2000,Unknown,Unknown,Unknown,Unknown,Unknown,69,29,40
+2000,Dairy And Cold Storage,Dairy,Cheese,Mozarella,Mozarella,25.95,19,6.95
+2000,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,15,9.95
+2000,Meat Fish,Pork,Pork Chops Pork Schnitzels,Unknown,Pork Chops Pork Schnitzels,46.95,35,11.95
+2000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,30.95,20,10.95
+2000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,14.95,11,3.95
+2000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,14.95,10,4.95
+2000,Bread And Cakes,Rye Breads,Other Rye Breads,Unknown,Other Rye Breads,18.95,11,7.95
+2000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Salads,Unknown,Dinner Salads,21.95,15,6.95
+2000,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Italian Mayo Salads,Italian Mayo Salads,15.95,9,6.95
+2000,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Poultry Mayo Salads,Poultry Mayo Salads,14.95,10,4.95
+2000,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,14.95,7,7.95
+2000,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,14.95,7,7.95
+2000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Drinking Yoghurt Kids Yoghurt,Drinking Yoghurt Kids Yoghurt,13.95,8,5.95
+2000,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,14.25,11,3.25
+2000,Dairy And Cold Storage,Dairy,Cheese,Cream Cheese,Cream Cheese,22.5,15,7.5
+2000,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,21.95,12,9.95
+2000,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,18,6.95
+2000,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,15,9.95
+2000,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,18,6.95
+2000,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,25.95,15,10.95
+2000,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,15.5,10,5.5
+2000,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,23.95,11,12.95
+2000,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,18,6.95
+2000,Dairy And Cold Storage,Dairy,Cheese,Cream Cheese,Cream Cheese,23.5,12,11.5
+2000,Meat Fish,Pork,Pork Chops Pork Schnitzels,Unknown,Pork Chops Pork Schnitzels,69,38,31
+2000,Dairy And Cold Storage,Ready To Eat Meals,Ready To Eat Soups,Unknown,Ready To Eat Soups,64.95,50,14.95
+2000,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Other Mayo Salads,Other Mayo Salads,20.95,9,11.95
+2000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,14.95,10,4.95
+2000,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Chicken Sausages,Chicken Sausages,19.95,15,4.95
+2000,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,15,9.95
+2000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,69,42,27
+2000,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,15.95,10,5.95
+2000,Dairy And Cold Storage,Lunch Meats,Meat,Salami,Salami,16.95,9,7.95
+2000,Bread And Cakes,Crackers Crisp Bread,Crackers,Rice Crackers Corn Crackers,Rice Crackers Corn Crackers,18.95,13,5.95
+2000,Meat Fish,spareribs Barbecue Meat,Unknown,Unknown,spareribs Barbecue Meat,39.95,30,9.95
+2000,Unknown,Unknown,Unknown,Unknown,Unknown,29.95,15,14.95
+2000,Dairy And Cold Storage,Dairy,Cheese,Blue Cheese Brie,Blue Cheese Brie,24.95,7,17.95
+2000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,32.95,24,8.95
+2000,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,15,9.95
+2000,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,15,9.95
+2000,Meat Fish,Pork,Minced Pork,Unknown,Minced Pork,53.75,40,13.75
+2000,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,26.95,6,20.95
+2000,Meat Fish,Pork,Thick Sausages,Unknown,Thick Sausages,44.95,35,9.95
+2000,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,15,9.95
+2000,Dairy And Cold Storage,Bacon Sausages Toppings,Chopped Ham,Unknown,Chopped Ham,14.95,11,3.95
+2000,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,15,9.95
+2000,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,15,9.95
+2000,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,14.95,7,7.95
+2000,Dairy And Cold Storage,Dairy,Cheese,Mozarella,Mozarella,24.95,14,10.95
+2000,Dairy And Cold Storage,Dairy,Cheese,Cream Cheese,Cream Cheese,24.95,19,5.95
+2000,Dairy And Cold Storage,Dairy,Cheese,Cottage Cheese,Cottage Cheese,11.95,9,2.95
+2000,Dairy And Cold Storage,Dairy,Cheese,Blue Cheese Brie,Blue Cheese Brie,45.95,18,27.95
+2000,Dairy And Cold Storage,Dairy,Milk,Whole Milk,Whole Milk,17.95,14,3.95
+2000,Dairy And Cold Storage,Dairy,Milk,Skimmed Milk,Skimmed Milk,18.95,7,11.95
+2000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Drinking Yoghurt Kids Yoghurt,Drinking Yoghurt Kids Yoghurt,24.95,10,14.95
+2000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Creme Fraiche Quark,Creme Fraiche Quark,17.95,14,3.95
+2000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,17.95,5,12.95
+2000,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,36.25,20,16.25
+2000,Bread And Cakes,Rye Breads,Other Rye Breads,Unknown,Other Rye Breads,5.75,3,2.75
+2000,Dairy And Cold Storage,Lunch Meats,Prepared Chicken,Unknown,Prepared Chicken,27.95,20,7.95
+2000,Dairy And Cold Storage,Lunch Meats,Prepared Chicken,Unknown,Prepared Chicken,57.95,45,12.95
+2000,Meat Fish,spareribs Barbecue Meat,Unknown,Unknown,spareribs Barbecue Meat,39.95,25,14.95
+2000,Dairy And Cold Storage,Potato Accessories,Prepared Potatoes,Unknown,Prepared Potatoes,15.95,12,3.95
+2000,Dairy And Cold Storage,Potato Accessories,Cream Potatoes,Unknown,Cream Potatoes,25.95,16,9.95
+2000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,38.5,30,8.5
+2000,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,15,9.95
+2000,Dairy And Cold Storage,Tapas Specialities,Cold Cuts Specialities,Unknown,Cold Cuts Specialities,32.95,15,17.95
+2000,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,8.5,6,2.5
+2000,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,15,9.95
+2000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,32.95,24,8.95
+2000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,32.95,24,8.95
+2000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,30,20,10
+2000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,30.95,20,10.95
+2000,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,15,9.95
+2000,Dairy And Cold Storage,Ready To Eat Meals,Ready To Eat Pizza,Unknown,Ready To Eat Pizza,33.95,20,13.95
+2000,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,17.95,10,7.95
+2000,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Italian Mayo Salads,Italian Mayo Salads,22.95,11,11.95
+2000,Dairy And Cold Storage,Dairy,Desserts Snacks,Unknown,Desserts Snacks,27.95,16,11.95
+2000,Dairy And Cold Storage,Bacon Sausages Toppings,Bacon,Sliced Bacon,Sliced Bacon,27.95,20,7.95
+2000,Beverages,Juice Smoothies,Apple Juices,Unknown,Apple Juices,21.95,17,4.95
+2000,Dairy And Cold Storage,Fresh Dough And Pancakes,Pancakes,Unknown,Pancakes,22.95,18,4.95
+2000,Dairy And Cold Storage,Ready To Eat Meals,Ready To Eat Pizza,Unknown,Ready To Eat Pizza,33.95,25,8.95
+2000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,29.95,16,13.95
+2100,Unknown,Unknown,Unknown,Unknown,Unknown,69,37,32
+2100,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,59,45,14
+2100,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,59,25,34
+2100,Meat Fish,spareribs Barbecue Meat,Unknown,Unknown,spareribs Barbecue Meat,119,53,66
+2100,Unknown,Unknown,Unknown,Unknown,Unknown,59,45,14
+2100,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,59,31,28
+2100,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,59,45,14
+2100,Meat Fish,spareribs Barbecue Meat,Unknown,Unknown,spareribs Barbecue Meat,119,47,72
+2100,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,15,9.95
+2100,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,16.95,10,6.95
+2100,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Poultry Mayo Salads,Poultry Mayo Salads,14.95,10,4.95
+2100,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Pork Mayo Salads,Pork Mayo Salads,15.95,12,3.95
+2100,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,15.95,9,6.95
+2100,Beverages,Juice Smoothies,Apple Juices,Unknown,Apple Juices,21.95,17,4.95
+2100,Dairy And Cold Storage,Lunch Meats,Plant Based Toppings,Unknown,Plant Based Toppings,14.35,10,4.35
+2100,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,24.95,14,10.95
+2100,Dairy And Cold Storage,Fresh Dough And Pancakes,Pancakes,Unknown,Pancakes,25.95,20,5.95
+2100,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Fish Mayo Salads,Fish Mayo Salads,27.95,16,11.95
+2100,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,29.95,19,10.95
+2100,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,17.5,9,8.5
+2100,Dairy And Cold Storage,Dairy,Cheese,Cheese For Slicing,Cheese For Slicing,108.95,58,50.95
+2100,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,8.95,6,2.95
+2100,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,22.95,16,6.95
+2100,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Fish Mayo Salads,Fish Mayo Salads,14.25,11,3.25
+2100,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Pork Mayo Salads,Pork Mayo Salads,20.95,9,11.95
+2100,Dairy And Cold Storage,Sauces Dressings,Sauce,Unknown,Sauce,16.95,13,3.95
+2100,Dairy And Cold Storage,Ready To Eat Meals,Ready To Eat Meat Alternatives,Unknown,Ready To Eat Meat Alternatives,34.95,25,9.95
+2100,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,69.95,45,24.95
+2100,Dairy And Cold Storage,Dairy,Cheese,Blue Cheese Brie,Blue Cheese Brie,64.95,50,14.95
+2100,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,36.25,20,16.25
+2100,Meat Fish,Pork,Roasted Whole Pork Pieces,Pork Tenderloin,Pork Tenderloin,89,55,34
+2100,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,15,9.95
+2100,Dairy And Cold Storage,Dairy,Cheese,Blue Cheese Brie,Blue Cheese Brie,31.25,18,13.25
+2100,Beverages,Juice Smoothies,Orange Juices,Unknown,Orange Juices,10,7,3
+2100,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,14.95,9,5.95
+2100,Meat Fish,Pork,Other Pork,Unknown,Other Pork,129,80,49
+2100,Dairy And Cold Storage,Dairy,Cheese,Cottage Cheese,Cottage Cheese,12.95,9,3.95
+2100,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,39.95,30,9.95
+2100,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,15.95,9,6.95
+2100,Dairy And Cold Storage,Sauces Dressings,Dressings,Unknown,Dressings,21.95,15,6.95
+2100,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,37.95,20,17.95
+2100,Dairy And Cold Storage,Sauces Dressings,Sauce,Unknown,Sauce,14.95,11,3.95
+2100,Dairy And Cold Storage,Dairy,Cheese,Cheese Specialities,Cheese Specialities,24.95,19,5.95
+2100,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,15,9.95
+2100,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,29.95,13,16.95
+2100,Dairy And Cold Storage,Fresh Dough And Pancakes,Pancakes,Unknown,Pancakes,26.95,15,11.95
+2100,Meat Fish,Pork,Thick Sausages,Unknown,Thick Sausages,39,25,14
+2100,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,8.95,6,2.95
+2100,Meat Fish,Pork,Other Pork,Unknown,Other Pork,69,35,34
+2100,Meat Fish,Pork,Other Pork,Unknown,Other Pork,69,33,36
+2100,Meat Fish,Pork,Pork Chops Pork Schnitzels,Unknown,Pork Chops Pork Schnitzels,69,45,24
+2100,Meat Fish,Pork,Minced Pork,Unknown,Minced Pork,99,55,44
+2100,Meat Fish,Pork,Minced Pork,Unknown,Minced Pork,53.75,40,13.75
+2100,Meat Fish,Pork,Thick Sausages,Unknown,Thick Sausages,44.95,35,9.95
+2100,Dairy And Cold Storage,Dairy,Milk,Semiskimmed Milk,Semiskimmed Milk,10.75,8,2.75
+2100,Meat Fish,Pork,Pork Chops Pork Schnitzels,Unknown,Pork Chops Pork Schnitzels,42.95,30,12.95
+2100,Meat Fish,Pork,Pork Chops Pork Schnitzels,Unknown,Pork Chops Pork Schnitzels,46.95,35,11.95
+2100,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,25.95,18,7.95
+2100,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,23.5,18,5.5
+2100,Meat Fish,Pork,Thick Sausages,Unknown,Thick Sausages,34.95,16,18.95
+2100,Meat Fish,Pork,Roasted Whole Pork Pieces,Pork Neck Pork Loin,Pork Neck Pork Loin,179,149,30
+2100,Unknown,Unknown,Unknown,Unknown,Unknown,179,137,42
+2100,Bread And Cakes,Light Breads Dark Breads,Whole Breads,Unknown,Whole Breads,21.95,15,6.95
+2100,Dairy And Cold Storage,Dairy,Cheese,Cream Cheese,Cream Cheese,27.95,20,7.95
+2100,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,15,9.95
+2100,Dairy And Cold Storage,Fresh Pasta,Fresh Pasta Without Fillings,Unknown,Fresh Pasta Without Fillings,13.95,11,2.95
+2100,Dairy And Cold Storage,Dairy,Cold Coffee Drinks Cacao,Unknown,Cold Coffee Drinks Cacao,15.95,10,5.95
+2100,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,15,9.95
+2100,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,15,9.95
+2100,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,38.95,20,18.95
+2100,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Pork Mayo Salads,Pork Mayo Salads,27.95,16,11.95
+2100,Dairy And Cold Storage,Dairy,Cheese,Cream Cheese,Cream Cheese,23.5,12,11.5
+2100,Meat Fish,spareribs Barbecue Meat,Unknown,Unknown,spareribs Barbecue Meat,39.95,30,9.95
+2100,Meat Fish,Pork,Minced Pork,Unknown,Minced Pork,39.95,25,14.95
+2100,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,15,9.95
+2100,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,25.95,15,10.95
+2100,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,19.95,13,6.95
+2100,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,25.95,15,10.95
+2100,Dairy And Cold Storage,Dairy,Cheese,Cream Cheese,Cream Cheese,22.5,12,10.5
+2100,Dairy And Cold Storage,Dairy,Cheese,Mozarella,Mozarella,37.95,14,23.95
+2100,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,22.95,13,9.95
+2100,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,14.95,10,4.95
+2100,Bread And Cakes,Crackers Crisp Bread,Crisp Bread,Unknown,Crisp Bread,25.95,20,5.95
+2100,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,16.95,12,4.95
+2100,Dairy And Cold Storage,Dairy,Cheese,Mozarella,Mozarella,28.95,19,9.95
+2100,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,31.95,22,9.95
+2100,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,18.95,9,9.95
+2100,Dairy And Cold Storage,Dairy,Cheese,Blue Cheese Brie,Blue Cheese Brie,69.95,41,28.95
+2100,Meat Fish,spareribs Barbecue Meat,Unknown,Unknown,spareribs Barbecue Meat,59.95,33,26.95
+2200,Unknown,Unknown,Unknown,Unknown,Unknown,69,27.6,41.4
+2200,Dairy And Cold Storage,Potato Accessories,Cream Potatoes,Unknown,Cream Potatoes,54.95,40,14.95
+2200,Bread And Cakes,Light Breads Dark Breads,Whole Breads,Unknown,Whole Breads,26.95,8,18.95
+2200,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,32.95,22,10.95
+2200,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Turkey,Cold Cuts Turkey,16.95,9,7.95
+2200,Unknown,Unknown,Unknown,Unknown,Unknown,16.5,10,6.5
+2200,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,25.95,14,11.95
+2200,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,25,7,18
+2200,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,25.5,9,16.5
+2200,Bread And Cakes,Rye Breads,Other Rye Breads,Unknown,Other Rye Breads,5.75,4,1.75
+2200,Beverages,Juice Smoothies,Smoothies,Unknown,Smoothies,19.95,15,4.95
+2200,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,21.95,7,14.95
+2200,Dairy And Cold Storage,Sauces Dressings,Sauce,Unknown,Sauce,17.5,12,5.5
+2200,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Fish Mayo Salads,Fish Mayo Salads,21.95,8,13.95
+2200,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,24.95,13,11.95
+2200,Dairy And Cold Storage,Dairy,Cheese,Shredded Cheese Toppings,Shredded Cheese Toppings,21.95,14,7.95
+2200,Bread And Cakes,Light Breads Dark Breads,Whole Breads,Unknown,Whole Breads,24.95,10,14.95
+2200,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,29.95,19,10.95
+2200,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,9.75,7,2.75
+2200,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,15,9.95
+2200,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,25,13,12
+2200,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Poultry Mayo Salads,Poultry Mayo Salads,20.95,9,11.95
+2200,Dairy And Cold Storage,Dairy,Desserts Snacks,Unknown,Desserts Snacks,12.95,7,5.95
+2200,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,12.5,9,3.5
+2200,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,29.95,17,12.95
+2200,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,22.95,10,12.95
+2200,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Soured Milk,Soured Milk,18.5,14,4.5
+2200,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,44.95,34,10.95
+2200,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,14.5,11,3.5
+2200,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,23.95,11,12.95
+2200,Meat Fish,Pork,Other Pork,Meat Fish,Meat Fish,149,80,69
+2200,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,27.95,14,13.95
+2200,Dairy And Cold Storage,Dairy,Cheese,Blue Cheese Brie,Blue Cheese Brie,49.95,15,34.95
+2200,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Poultry Mayo Salads,Poultry Mayo Salads,21.95,8,13.95
+2200,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Drinking Yoghurt Kids Yoghurt,Drinking Yoghurt Kids Yoghurt,13.95,11,2.95
+2200,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,15.95,6,9.95
+2200,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,15,9.95
+2200,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,30.95,20,10.95
+2200,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,25,7,18
+2200,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Poultry Mayo Salads,Poultry Mayo Salads,20.95,9,11.95
+2200,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,10.5,6,4.5
+2200,Bread And Cakes,Light Breads Dark Breads,Whole Breads,Unknown,Whole Breads,26.95,9,17.95
+2200,Dairy And Cold Storage,Lunch Meats,Meat,Roastbeef,Roastbeef,20.95,7,13.95
+2200,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Drinking Yoghurt Kids Yoghurt,Drinking Yoghurt Kids Yoghurt,13.95,8,5.95
+2200,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,14.5,8,6.5
+2200,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,14.5,8,6.5
+2200,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,25.95,15,10.95
+2200,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,16.95,9,7.95
+2200,Dairy And Cold Storage,Bacon Sausages Toppings,Other Toppings,Unknown,Other Toppings,19.95,12,7.95
+2200,Dairy And Cold Storage,Fresh Dough And Pancakes,fresh Dough,Unknown,fresh Dough,15.95,6,9.95
+2200,Dairy And Cold Storage,Fresh Dough And Pancakes,Pancakes,Unknown,Pancakes,26.95,15,11.95
+2200,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,36.25,18,18.25
+2200,Dairy And Cold Storage,Fresh Dough And Pancakes,fresh Dough,Unknown,fresh Dough,21.95,17,4.95
+2200,Dairy And Cold Storage,Bacon Sausages Toppings,Chopped Ham,Unknown,Chopped Ham,49.95,21,28.95
+2200,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,27.5,20,7.5
+2200,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,23.95,7,16.95
+2200,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Poultry Mayo Salads,Poultry Mayo Salads,20.95,9,11.95
+2200,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Italian Mayo Salads,Italian Mayo Salads,20.95,9,11.95
+2200,Bread And Cakes,Rye Breads,Other Rye Breads,Unknown,Other Rye Breads,8,4,4
+2200,Dairy And Cold Storage,Dairy,Desserts Snacks,Unknown,Desserts Snacks,12.95,7,5.95
+2200,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,14,10.95
+2200,Dairy And Cold Storage,Lunch Meats,Plant Based Toppings,Unknown,Plant Based Toppings,14.35,9,5.35
+2200,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,29.95,16,13.95
+2200,Meat Fish,Pork,Other Pork,Unknown,Other Pork,69,35,34
+2200,Meat Fish,spareribs Barbecue Meat,Unknown,Unknown,spareribs Barbecue Meat,39.95,30,9.95
+2200,Dairy And Cold Storage,Lunch Meats,Prepared Chicken,Unknown,Prepared Chicken,19.95,15,4.95
+2200,Dairy And Cold Storage,Sauces Dressings,Sauce,Unknown,Sauce,25.95,16,9.95
+2200,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,18.95,9,9.95
+2200,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,15,9.95
+2200,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,15,9.95
+2200,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,15,9.95
+2200,Meat Fish,Pork,Pork Chops Pork Schnitzels,Unknown,Pork Chops Pork Schnitzels,46.95,20,26.95
+2200,Dairy And Cold Storage,Lunch Meats,Meat Balls,Unknown,Meat Balls,46.95,30,16.95
+2200,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Cocktail Sausages Brunch Sausages,Cocktail Sausages Brunch Sausages,24.95,18,6.95
+2200,Meat Fish,spareribs Barbecue Meat,Unknown,Unknown,spareribs Barbecue Meat,59.95,33,26.95
+2200,Bread And Cakes,Bread Specialities,Special Whole Breads,Unknown,Special Whole Breads,18.95,11,7.95
+2200,Meat Fish,Pork,Other Pork,Unknown,Other Pork,69,34,35
+2200,Bread And Cakes,Bread Specialities,Naan Breads Flat Breads,Unknown,Naan Breads Flat Breads,12.95,10,2.95
+2200,Bread And Cakes,Bread Specialities,Pita Bread,Unknown,Pita Bread,14.5,11,3.5
+2200,Bread And Cakes,Bread Specialities,Pita Bread,Unknown,Pita Bread,20,15,5
+2200,Unknown,Unknown,Unknown,Unknown,Unknown,21.95,12,9.95
+2200,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Italian Mayo Salads,Italian Mayo Salads,22.95,11,11.95
+2200,Dairy And Cold Storage,Lunch Meats,Meat,Salami,Salami,42.95,25,17.95
+2200,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,16.95,9,7.95
+2200,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Creme Fraiche Quark,Creme Fraiche Quark,19.95,15,4.95
+2200,Dairy And Cold Storage,Dairy,Cheese,Blue Cheese Brie,Blue Cheese Brie,36.5,20,16.5
+2200,Beverages,Juice Smoothies,Orange Juices,Unknown,Orange Juices,44.95,21,23.95
+2200,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,21.95,10,11.95
+2200,Meat Fish,Pork,Pork Chops Pork Schnitzels,Unknown,Pork Chops Pork Schnitzels,43.95,20,23.95
+2200,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,16.95,9,7.95
+2200,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,6.95,4,2.95
+2200,Unknown,Unknown,Unknown,Unknown,Unknown,69,35,34
+2300,Meat Fish,Pork,Pork Chops Pork Schnitzels,Unknown,Pork Chops Pork Schnitzels,59,27.95,31.05
+2300,Meat Fish,Beef,Roasted Whole Beef Pieces,Unknown,Roasted Whole Beef Pieces,135,55,80
+2300,Meat Fish,Pork,Other Pork,Unknown,Other Pork,135,80.95,54.05
+2300,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,15.95,8.95,7
+2300,Dairy And Cold Storage,Dairy,Cheese,Blue Cheese Brie,Blue Cheese Brie,69.95,43.95,26
+2300,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,6.95,3.95,3
+2300,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,23.95,12.95,11
+2300,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Fish Mayo Salads,Fish Mayo Salads,27.95,19.95,8
+2300,Dairy And Cold Storage,Dairy,Desserts Snacks,Unknown,Desserts Snacks,24.95,11.95,13
+2300,Meat Fish,spareribs Barbecue Meat,Unknown,Unknown,spareribs Barbecue Meat,37.95,18.95,19
+2300,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,16.95,9.95,7
+2300,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,25,4.95,20.05
+2300,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,29.95,14.95,15
+2300,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,32.95,28.95,4
+2300,Bread And Cakes,Crackers Crisp Bread,Crisp Bread,Unknown,Crisp Bread,24.95,10.95,14
+2300,Dairy And Cold Storage,Dairy,Desserts Snacks,Unknown,Desserts Snacks,12.95,7.95,5
+2300,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Fish Mayo Salads,Fish Mayo Salads,27.95,19.95,8
+2300,Meat Fish,Lamb,Unknown,Unknown,Lamb,69,25,44
+2300,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,23.95,12.95,11
+2300,Dairy And Cold Storage,Potato Accessories,potato Salad,Unknown,potato Salad,35.95,17.95,18
+2300,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,23.95,12.95,11
+2300,Dairy And Cold Storage,Potato Accessories,Prepared Potatoes,Unknown,Prepared Potatoes,16.95,8.95,8
+2300,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Fish Mayo Salads,Fish Mayo Salads,27.95,19.92,8.03
+2300,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,24.95,15.95,9
+2300,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,17.95,8.95,9
+2300,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,23.95,2.95,21
+2300,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,23.95,12.95,11
+2300,Bread And Cakes,Crackers Crisp Bread,Crackers,Rice Crackers Corn Crackers,Rice Crackers Corn Crackers,27.95,20,7.95
+2300,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,13.25,7.95,5.3
+2300,Bread And Cakes,Rye Breads,Other Rye Breads,Unknown,Other Rye Breads,8,3.95,4.05
+2300,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,27.95,15.95,12
+2300,Unknown,Unknown,Unknown,Unknown,Unknown,27.95,19.95,8
+2300,Dairy And Cold Storage,Lunch Meats,Meat,Smoked Saddle Of Pork,Smoked Saddle Of Pork,15.95,7.95,8
+2300,Bread And Cakes,Crackers Crisp Bread,Crisp Bread,Unknown,Crisp Bread,37.95,18.95,19
+2300,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Poultry Mayo Salads,Poultry Mayo Salads,27.95,19.92,8.03
+2300,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,20.95,7.95,13
+2300,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,18.95,10.95,8
+2300,Dairy And Cold Storage,Dairy,Cheese,Sliced Cheese,Sliced Cheese,27.95,16.95,11
+2300,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,22.95,13.95,9
+2300,Meat Fish,Pork,Minced Pork Veal,Unknown,Minced Pork Veal,69,29.95,39.05
+2300,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,14.5,8.95,5.55
+2300,Dairy And Cold Storage,Bacon Sausages Toppings,Other Toppings,Unknown,Other Toppings,17.95,9.95,8
+2300,Meat Fish,Pork,Pork Chops Pork Schnitzels,Unknown,Pork Chops Pork Schnitzels,119,60,59
+2300,Meat Fish,spareribs Barbecue Meat,Unknown,Unknown,spareribs Barbecue Meat,64.95,39.95,25
+2300,Meat Fish,Pork,Minced Pork,Unknown,Minced Pork,39.95,23.95,16
+2300,Bread And Cakes,Rye Breads,Other Rye Breads,Unknown,Other Rye Breads,22.95,9.95,13
+2300,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,32.95,19.95,13
+2300,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,17.95,8.95,9
+2300,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Ham,Cold Cuts Ham,18.95,8.95,10
+2300,Meat Fish,Pork,Pork Chops Pork Schnitzels,Unknown,Pork Chops Pork Schnitzels,69,38.95,30.05
+2300,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Pork Mayo Salads,Pork Mayo Salads,27.95,19.95,8
+2300,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Poultry Mayo Salads,Poultry Mayo Salads,27.95,19.92,8.03
+2300,Dairy And Cold Storage,Fresh Dough And Pancakes,Pancakes,Unknown,Pancakes,22.95,12.95,10
+2300,Dairy And Cold Storage,Potato Accessories,Prepared Potatoes,Unknown,Prepared Potatoes,26.95,16.95,10
+2300,Dairy And Cold Storage,Potato Accessories,Prepared Potatoes,Unknown,Prepared Potatoes,26.95,15.95,11
+2300,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,14,7.95,6.05
+2300,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,25,10.95,14.05
+2300,Meat Fish,Pork,Pork Chops Pork Schnitzels,Unknown,Pork Chops Pork Schnitzels,119,60,59
+2300,Dairy And Cold Storage,Potato Accessories,potato Salad,Unknown,potato Salad,29.95,17.95,12
+2300,Meat Fish,Pork,Thick Sausages,Unknown,Thick Sausages,44.95,24.95,20
+2300,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,14.95,8.95,6
+2300,Dairy And Cold Storage,Lunch Meats,Meat,Roastbeef,Roastbeef,21.95,12.95,9
+2300,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,23.95,8.95,15
+2300,Unknown,Unknown,Unknown,Unknown,Unknown,27.95,19.95,8
+2300,Meat Fish,Pork,Minced Pork,Unknown,Minced Pork,69,25,44
+2300,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,29.95,14.95,15
+2300,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,16.95,9.95,7
+2300,Meat Fish,Pork,Roasted Whole Pork Pieces,Pork Tenderloin,Pork Tenderloin,69,38.95,30.05
+2300,Meat Fish,Lamb,Unknown,Unknown,Lamb,79,40,39
+2300,Meat Fish,Pork,Pork Chops Pork Schnitzels,Unknown,Pork Chops Pork Schnitzels,43.95,20,23.95
+2300,Bread And Cakes,Bread Specialities,Burger Buns,Unknown,Burger Buns,27.95,16.95,11
+2300,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,13.25,5.95,7.3
+2300,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,25,10.95,14.05
+2300,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,24.5,8.95,15.55
+2300,Meat Fish,Pork,Minced Pork,Unknown,Minced Pork,135,59.95,75.05
+2300,Meat Fish,Lamb,Unknown,Unknown,Lamb,99,50,49
+2300,Dairy And Cold Storage,Ready To Eat Meals,Ready To Eat Meat Alternatives,Unknown,Ready To Eat Meat Alternatives,31.95,18.95,13
+2300,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,23.95,12.95,11
+2300,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,23.95,12.95,11
+2300,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,40.95,23.95,17
+2300,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,15.95,7.95,8
+2300,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,23.95,12.95,11
+2300,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Chicken Sausages,Chicken Sausages,13.95,8.95,5
+2300,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,23.95,12.95,11
+2500,Meat Fish,Pork,Thick Sausages,Unknown,Thick Sausages,34.95,21,13.95
+2500,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,18.75,10,8.75
+2500,Bread And Cakes,Rye Breads,Other Rye Breads,Unknown,Other Rye Breads,23.95,12,11.95
+2500,Dairy And Cold Storage,Dairy,Cream Whipped Cream,Whipping Cream,Whipping Cream,29.95,20,9.95
+2500,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,15.95,8,7.95
+2500,Unknown,Unknown,Unknown,Unknown,Unknown,10,8,2
+2500,Unknown,Unknown,Unknown,Unknown,Unknown,22,17,5
+2500,Unknown,Unknown,Unknown,Unknown,Unknown,17,13,4
+2500,Dairy And Cold Storage,Dairy,Cheese,Sliced Cheese,Sliced Cheese,45,27,18
+2500,Dairy And Cold Storage,Dairy,Cream Whipped Cream,Whipping Cream,Whipping Cream,16.5,13,3.5
+2500,Dairy And Cold Storage,Dairy,Cream Whipped Cream,Whipping Cream,Whipping Cream,28.95,23,5.95
+2500,Bread And Cakes,Rye Breads,Other Rye Breads,Unknown,Other Rye Breads,25.5,13,12.5
+2500,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,9.75,7,2.75
+2600,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,59,35,24
+2600,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,89,50,39
+2600,Dairy And Cold Storage,Dairy,Cheese,Blue Cheese Brie,Blue Cheese Brie,69.95,30,39.95
+2600,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,30.95,20,10.95
+2600,Dairy And Cold Storage,Potato Accessories,Prepared Potatoes,Unknown,Prepared Potatoes,26.95,15,11.95
+2600,Dairy And Cold Storage,Dairy,Desserts Snacks,Unknown,Desserts Snacks,14.95,9,5.95
+2600,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,25,5,20
+2600,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Drinking Yoghurt Kids Yoghurt,Drinking Yoghurt Kids Yoghurt,12.95,9,3.95
+2600,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,9.75,5,4.75
+2600,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,25,5,20
+2600,Bread And Cakes,Rye Breads,Rye Breads With Carrots,Unknown,Rye Breads With Carrots,25.5,5,20.5
+2600,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,19.95,5,14.95
+2600,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,13.25,5,8.25
+2600,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,24.95,5,19.95
+2600,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,15.5,5,10.5
+2600,Meat Fish,Pork,Thick Sausages,Unknown,Thick Sausages,44.95,32,12.95
+2600,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Drinking Yoghurt Kids Yoghurt,Drinking Yoghurt Kids Yoghurt,12.95,9,3.95
+2600,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,9.75,5,4.75
+2600,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Drinking Yoghurt Kids Yoghurt,Drinking Yoghurt Kids Yoghurt,17.5,9,8.5
+2600,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,26.95,5,21.95
+2600,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,26.95,5,21.95
+2600,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,16.95,5,11.95
+2600,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,15.95,5,10.95
+2600,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,22.95,11,11.95
+2600,Dairy And Cold Storage,Dairy,Milk,Semiskimmed Milk,Semiskimmed Milk,16.95,13,3.95
+2600,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,17.95,14,3.95
+2600,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,29.95,16,13.95
+2600,Dairy And Cold Storage,Dairy,Milk,Nonfat Milk,Nonfat Milk,16.5,13,3.5
+2600,Dairy And Cold Storage,Lunch Meats,Meat,Roastbeef,Roastbeef,25.95,14,11.95
+2600,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,30.95,20,10.95
+2600,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,8.25,4,4.25
+2600,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,19.95,10,9.95
+2600,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,5,19.95
+2600,Bread And Cakes,Rye Breads,Other Rye Breads,Unknown,Other Rye Breads,5.75,4,1.75
+2600,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,16.95,5,11.95
+2700,Unknown,Unknown,Unknown,Unknown,Unknown,59.9,32.95,26.95
+2700,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,59,20,39
+2700,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,59,15,44
+2700,Meat Fish,Chicken,Other Chicken,Dairy And Cold Storage,Dairy And Cold Storage,59,15,44
+2700,Meat Fish,Pork,Roasted Whole Pork Pieces,Roasted Pork,Roasted Pork,69,30,39
+2700,Unknown,Unknown,Unknown,Unknown,Unknown,36,20,16
+2700,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,19.95,7,12.95
+2700,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,19.95,6,13.95
+2700,Dairy And Cold Storage,Bacon Sausages Toppings,Chopped Ham,Unknown,Chopped Ham,18.75,11,7.75
+2700,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,39.95,20,19.95
+2700,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,39.95,20,19.95
+2700,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,38.95,17,21.95
+2700,Dairy And Cold Storage,Lunch Meats,Meat,Salami,Salami,23.95,12,11.95
+2700,Dairy And Cold Storage,Bacon Sausages Toppings,Chopped Ham,Unknown,Chopped Ham,19.95,11,8.95
+2700,Beverages,Juice Smoothies,Fruit Shots Vegetable Shots,Unknown,Fruit Shots Vegetable Shots,17.95,9,8.95
+2700,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,37.95,20,17.95
+2700,Meat Fish,spareribs Barbecue Meat,Unknown,Unknown,spareribs Barbecue Meat,35.95,10,25.95
+2700,Dairy And Cold Storage,Dairy,Plant Based Alternatives,Plant Based Milk Alternatives,Plant Based Milk Alternatives,10.75,10,0.75
+2700,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Ham,Cold Cuts Ham,19.95,9,10.95
+2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,5,19.95
+2700,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,36.25,20,16.25
+2700,Bread And Cakes,Crackers Crisp Bread,Crisp Bread,Unknown,Crisp Bread,24.95,16,8.95
+2700,Meat Fish,spareribs Barbecue Meat,Unknown,Unknown,spareribs Barbecue Meat,39.95,10,29.95
+2700,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,18.95,11,7.95
+2700,Bread And Cakes,Rye Breads,Rye Breads With Carrots,Unknown,Rye Breads With Carrots,25.5,9,16.5
+2700,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,21.95,9,12.95
+2700,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,16.95,12,4.95
+2700,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,24.95,19,5.95
+2700,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,8.95,7,1.95
+2700,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,19.95,14,5.95
+2700,Bread And Cakes,Bread Specialities,Burger Buns,Unknown,Burger Buns,21.95,17,4.95
+2700,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,15.95,12,3.95
+2700,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,10,14.95
+2700,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Turkey,Cold Cuts Turkey,16.95,9,7.95
+2700,Dairy And Cold Storage,Lunch Meats,Meat,Corned Beef,Corned Beef,18.95,3,15.95
+2700,Bread And Cakes,Crackers Crisp Bread,Crisp Bread,Unknown,Crisp Bread,24.95,16,8.95
+2700,Dairy And Cold Storage,Bacon Sausages Toppings,Chopped Ham,Unknown,Chopped Ham,49.95,15,34.95
+2700,Dairy And Cold Storage,Fresh Dough And Pancakes,fresh Dough,Unknown,fresh Dough,13.95,6,7.95
+2700,Dairy And Cold Storage,Dairy,Desserts Snacks,Unknown,Desserts Snacks,6.5,2,4.5
+2700,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,5,19.95
+2700,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Italian Mayo Salads,Italian Mayo Salads,15.95,9,6.95
+2700,Dairy And Cold Storage,Lunch Meats,Meat,Roastbeef,Roastbeef,14.5,11,3.5
+2700,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,44.95,30,14.95
+2700,Dairy And Cold Storage,Fresh Pasta,Fresh Pasta With Fillings,Unknown,Fresh Pasta With Fillings,19.95,15,4.95
+2700,Dairy And Cold Storage,Lunch Meats,Meat Balls,Unknown,Meat Balls,26.95,20,6.95
+2700,Dairy And Cold Storage,Potato Accessories,Prepared Potatoes,Unknown,Prepared Potatoes,26.95,15,11.95
+2700,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,39.95,30,9.95
+2700,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,25.95,11,14.95
+2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,11,13.95
+2700,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,12,12.95
+2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,25.95,11,14.95
+2700,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,17.95,6,11.95
+2700,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,18.95,9,9.95
+2700,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,16.95,6,10.95
+2700,Dairy And Cold Storage,Lunch Meats,Plant Based Toppings,Unknown,Plant Based Toppings,18.25,6,12.25
+2700,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,15.95,5,10.95
+2700,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,15,9.95
+2700,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,15,9.95
+2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,15,9.95
+2700,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,15,9.95
+2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,15,9.95
+2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,15,9.95
+2700,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,24.95,16,8.95
+2700,Dairy And Cold Storage,Lunch Meats,Plant Based Toppings,Unknown,Plant Based Toppings,18.95,9,9.95
+2700,Dairy And Cold Storage,Lunch Meats,Meat,Roastbeef,Roastbeef,16.95,5,11.95
+2700,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,29.95,16,13.95
+2700,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Fish Mayo Salads,Fish Mayo Salads,31.95,20,11.95
+2700,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,43.95,35,8.95
+2700,Dairy And Cold Storage,Lunch Meats,Meat Balls,Unknown,Meat Balls,26.95,20,6.95
+2700,Meat Fish,Pork,Pork Chops Pork Schnitzels,Unknown,Pork Chops Pork Schnitzels,69,44,25
+2700,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,39.95,30,9.95
+2700,Meat Fish,Lamb,Unknown,Unknown,Lamb,69,45,24
+2700,Meat Fish,Pork,Other Pork,Unknown,Other Pork,69,42,27
+2700,Unknown,Unknown,Unknown,Unknown,Unknown,69,45,24
+2700,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,14,9,5
+2700,Dairy And Cold Storage,Lunch Meats,Meat,Roastbeef,Roastbeef,20.95,3,17.95
+2700,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,19.95,5,14.95
+2700,Meat Fish,Pork,Thick Sausages,Unknown,Thick Sausages,34.95,25,9.95
+2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,4,20.95
+2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,11,13.95
+2700,Meat Fish,Pork,Roasted Whole Pork Pieces,Pork Tenderloin,Pork Tenderloin,69.95,55,14.95
+2700,Meat Fish,Pork,Pork Chops Pork Schnitzels,Unknown,Pork Chops Pork Schnitzels,43.95,29,14.95
+2700,Dairy And Cold Storage,Tapas Specialities,Sausages Specialities,Unknown,Sausages Specialities,24.95,5,19.95
+2700,Bread And Cakes,Crackers Crisp Bread,Crisp Bread,Unknown,Crisp Bread,21.95,16,5.95
+2700,Dairy And Cold Storage,Lunch Meats,Meat,Smoked Saddle Of Pork,Smoked Saddle Of Pork,15.95,9,6.95
+2700,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,15,9.95
+2700,Dairy And Cold Storage,Ready To Eat Meals,Ready To Eat Pizza,Unknown,Ready To Eat Pizza,33.95,20,13.95
+2700,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,24.5,13,11.5
+2700,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,24.95,19,5.95
+2700,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,15.95,12,3.95
+2700,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,14.95,11,3.95
+2700,Bread And Cakes,Rye Breads,Other Rye Breads,Unknown,Other Rye Breads,18.95,15,3.95
+2700,Bread And Cakes,Rye Breads,Other Rye Breads,Unknown,Other Rye Breads,8,6,2
+2700,Bread And Cakes,Light Breads Dark Breads,Whole Breads,Unknown,Whole Breads,26.95,8,18.95
+2700,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,25,13,12
+2700,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,23.95,11,12.95
+2700,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,29.95,16,13.95
+2700,Dairy And Cold Storage,Ready To Eat Meals,Ready To Eat Pizza,Unknown,Ready To Eat Pizza,33.95,25,8.95
+2700,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,16.5,6,10.5
+2700,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,30.95,20,10.95
+2700,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,30.95,20,10.95
+2700,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,30.95,20,10.95
+2700,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,30.95,20,10.95
+2700,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,15.95,4,11.95
+2700,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,21.95,5,16.95
+2700,Meat Fish,Pork,Other Pork,Meat Fish,Meat Fish,149,84,65
+2700,Dairy And Cold Storage,Tapas Specialities,Cold Cuts Specialities,Unknown,Cold Cuts Specialities,32.95,10,22.95
+2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,11,13.95
+2700,Dairy And Cold Storage,Potato Accessories,potato Salad,Unknown,potato Salad,35.95,20,15.95
+2700,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,20.75,16,4.75
+2700,Dairy And Cold Storage,Fresh Dough And Pancakes,Pancakes,Unknown,Pancakes,19.95,15,4.95
+2700,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,26.95,6,20.95
+2700,Bread And Cakes,Crackers Crisp Bread,Crisp Bread,Unknown,Crisp Bread,21.95,16,5.95
+2700,Bread And Cakes,Crackers Crisp Bread,Crisp Bread,Unknown,Crisp Bread,22.95,16,6.95
+2700,Bread And Cakes,Crackers Crisp Bread,Crisp Bread,Unknown,Crisp Bread,24.95,16,8.95
+2700,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,19.75,15,4.75
+2700,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,24.95,8,16.95
+2700,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,29.95,16,13.95
+2700,Dairy And Cold Storage,Lunch Meats,Meat,Roastbeef,Roastbeef,23.95,16,7.95
+2700,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,15.95,6,9.95
+2700,Meat Fish,Chicken,Other Chicken,Unknown,Other Chicken,69,50,19
+2700,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Cocktail Sausages Brunch Sausages,Cocktail Sausages Brunch Sausages,24.95,19,5.95
+2700,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Poultry Mayo Salads,Poultry Mayo Salads,14.95,9,5.95
+2700,Meat Fish,Pork,Thick Sausages,Unknown,Thick Sausages,39,25,14
+2700,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,14.25,10,4.25
+2700,Dairy And Cold Storage,Ready To Eat Meals,Ready To Eat Pizza,Unknown,Ready To Eat Pizza,39.95,25,14.95
+2700,Dairy And Cold Storage,Potato Accessories,potato Salad,Unknown,potato Salad,35.95,20,15.95
+2700,Dairy And Cold Storage,Lunch Meats,Meat,Smoked Saddle Of Pork,Smoked Saddle Of Pork,17.95,9,8.95
+2700,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,8.95,5,3.95
+2700,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Drinking Yoghurt Kids Yoghurt,Drinking Yoghurt Kids Yoghurt,12.95,9,3.95
+2700,Dairy And Cold Storage,Lunch Meats,Prepared Chicken,Unknown,Prepared Chicken,22.95,18,4.95
+2700,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,15,9.95
+2700,Dairy And Cold Storage,Tapas Specialities,Sausages Specialities,Unknown,Sausages Specialities,44.95,20,24.95
+2700,Dairy And Cold Storage,Potato Accessories,Prepared Potatoes,Unknown,Prepared Potatoes,15.95,12,3.95
+2700,Dairy And Cold Storage,Potato Accessories,Prepared Potatoes,Unknown,Prepared Potatoes,15.95,12,3.95
+2800,Unknown,Unknown,Unknown,Unknown,Unknown,59.9,29.95,29.95
+2800,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,99,40,59
+2800,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,89,60,29
+2800,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,59,40,19
+2800,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,59,45,14
+2800,Unknown,Unknown,Unknown,Unknown,Unknown,59,39,20
+2800,Meat Fish,Lamb,Unknown,Unknown,Lamb,89.9,67.43,22.47
+2800,Unknown,Unknown,Unknown,Unknown,Unknown,59,44,15
+2800,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,89,40,49
+2800,Unknown,Unknown,Unknown,Unknown,Unknown,59.9,44.93,14.97
+2800,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,59,40,19
+2800,Meat Fish,Beef,Minced Beef,Unknown,Minced Beef,44.95,30,14.95
+2800,Dairy And Cold Storage,Sauces Dressings,Dressings,Unknown,Dressings,21.95,14,7.95
+2800,Bread And Cakes,Light Breads Dark Breads,Whole Breads,Unknown,Whole Breads,24.95,10,14.95
+2800,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,34.95,16,18.95
+2800,Dairy And Cold Storage,Bacon Sausages Toppings,Other Toppings,Unknown,Other Toppings,16.95,8,8.95
+2800,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,31.95,12,19.95
+2800,Bread And Cakes,Crackers Crisp Bread,Crackers,Rice Crackers Corn Crackers,Rice Crackers Corn Crackers,18.95,10,8.95
+2800,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,17.95,14,3.95
+2800,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,26.95,16,10.95
+2800,Bread And Cakes,Light Breads Dark Breads,Whole Breads,Unknown,Whole Breads,21.95,9,12.95
+2800,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,9.75,7,2.75
+2800,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,21.95,10,11.95
+2800,Bread And Cakes,Bread Specialities,Burger Buns,Unknown,Burger Buns,38.95,30,8.95
+2800,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,16.95,10,6.95
+2800,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Creme Fraiche Quark,Creme Fraiche Quark,23.5,18,5.5
+2800,Meat Fish,Pork,Other Pork,Unknown,Other Pork,69,41,28
+2800,Bread And Cakes,Bread Specialities,Naan Breads Flat Breads,Unknown,Naan Breads Flat Breads,10.95,8,2.95
+2800,Dairy And Cold Storage,Fresh Dough And Pancakes,fresh Dough,Unknown,fresh Dough,13.25,6,7.25
+2800,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Chicken Sausages,Chicken Sausages,19.95,15,4.95
+2800,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,8.25,6,2.25
+2800,Bread And Cakes,Bread Specialities,Pita Bread,Unknown,Pita Bread,14.95,11,3.95
+2800,Bread And Cakes,Bread Specialities,Pita Bread,Unknown,Pita Bread,14.5,8,6.5
+2800,Unknown,Unknown,Unknown,Unknown,Unknown,69,45,24
+2800,Unknown,Unknown,Unknown,Unknown,Unknown,179,140,39
+2800,Meat Fish,Pork,Other Pork,Meat Fish,Meat Fish,179,129,50
+2800,Meat Fish,Pork,Pork Chops Pork Schnitzels,Unknown,Pork Chops Pork Schnitzels,43.95,35,8.95
+2800,Bread And Cakes,Bread Specialities,Naan Breads Flat Breads,Unknown,Naan Breads Flat Breads,12.95,8,4.95
+2800,Bread And Cakes,Bread Specialities,Burger Buns,Unknown,Burger Buns,27.95,20,7.95
+2800,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,25.5,9,16.5
+2800,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,8.95,6,2.95
+2800,Bread And Cakes,Rye Breads,Rye Breads With Carrots,Unknown,Rye Breads With Carrots,25.5,9,16.5
+2800,Bread And Cakes,Rye Breads,Other Rye Breads,Unknown,Other Rye Breads,18.95,10,8.95
+2800,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,21.95,17,4.95
+2800,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,23.95,10,13.95
+2800,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,22.95,10,12.95
+2800,Bread And Cakes,Light Breads Dark Breads,Whole Breads,Unknown,Whole Breads,32.95,16,16.95
+2800,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,13.25,9,4.25
+2800,Bread And Cakes,Crackers Crisp Bread,Crackers,Rice Crackers Corn Crackers,Rice Crackers Corn Crackers,18.95,10,8.95
+2800,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,10,14.95
+2800,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,15.95,10,5.95
+2800,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,25,9,16
+2800,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,19.95,14,5.95
+2800,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,26.95,9,17.95
+2800,Dairy And Cold Storage,Ready To Eat Meals,Dinner Salads,Unknown,Dinner Salads,39.95,28,11.95
+2800,Dairy And Cold Storage,Dairy,Cheese,Sliced Cheese,Sliced Cheese,22.95,18,4.95
+2800,Bread And Cakes,Rye Breads,Other Rye Breads,Unknown,Other Rye Breads,5.75,4,1.75
+2800,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,19.95,8,11.95
+2800,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,10.5,8,2.5
+2800,Dairy And Cold Storage,Dairy,Cheese,Cream Cheese,Cream Cheese,29.95,15,14.95
+2800,Meat Fish,Pork,Thick Sausages,Unknown,Thick Sausages,34.95,25,9.95
+2800,Dairy And Cold Storage,Dairy,Cheese,Cream Cheese,Cream Cheese,22.5,15,7.5
+2800,Meat Fish,Pork,Other Pork,Unknown,Other Pork,69,45,24
+2800,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,24.5,13,11.5
+2800,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,8.95,5,3.95
+2800,Dairy And Cold Storage,Ready To Eat Meals,Sandwiches Wraps,Unknown,Sandwiches Wraps,37.95,23,14.95
+2800,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,29.95,12,17.95
+2800,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,29.95,12,17.95
+2800,Bread And Cakes,Crackers Crisp Bread,Crackers,Rice Crackers Corn Crackers,Rice Crackers Corn Crackers,11.95,10,1.95
+2800,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,36.25,20,16.25
+2800,Dairy And Cold Storage,Sauces Dressings,Remoulade Mayonnaise,Unknown,Remoulade Mayonnaise,16.95,9,7.95
+2800,Dairy And Cold Storage,Fresh Dough And Pancakes,fresh Dough,Unknown,fresh Dough,13.25,6,7.25
+2800,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Other Mayo Salads,Other Mayo Salads,16,7,9
+3100,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,15.95,9,6.95
+3100,Meat Fish,Pork,Roasted Whole Pork Pieces,Pork Neck Pork Loin,Pork Neck Pork Loin,32.95,25,7.95
+3100,Meat Fish,Pork,Minced Pork Veal,Unknown,Minced Pork Veal,39.95,24,15.95
+3100,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,18.95,10,8.95
+3100,Unknown,Unknown,Unknown,Unknown,Unknown,25,19,6
+3100,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,14.95,8,6.95
+3100,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,32,23,9
+3100,Unknown,Unknown,Unknown,Unknown,Unknown,15,11,4
+3100,Dairy And Cold Storage,Ready To Eat Meals,Sandwiches Wraps,Unknown,Sandwiches Wraps,22.95,17,5.95
+3100,Frozen Products,Ready Meals,Asian Ready Meals,Unknown,Asian Ready Meals,23.95,19,4.95
+3100,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,30,19,11
+3100,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,30,19,11
+3100,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,34.95,26,8.95
+3100,Meat Fish,Pork,Roasted Whole Pork Pieces,Pork Tenderloin,Pork Tenderloin,126.95,77,49.95
+3100,Meat Fish,Pork,Other Pork,Meat Fish,Meat Fish,89.95,56,33.95
+3100,Unknown,Unknown,Unknown,Unknown,Unknown,35,27,8
+3100,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,30,15,15
+3100,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,30,17,13
+3100,Dairy And Cold Storage,Dairy,Cold Coffee Drinks Cacao,Unknown,Cold Coffee Drinks Cacao,16.95,10,6.95
+3100,Meat Fish,Pork,Other Pork,Unknown,Other Pork,49.95,39,10.95
+3100,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,19.95,14,5.95
+3100,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,29.95,19,10.95
+3100,Dairy And Cold Storage,Lunch Meats,Meat,Roastbeef,Roastbeef,19.95,10,9.95
+3100,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,17.95,9,8.95
+3100,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Ham,Cold Cuts Ham,17.95,14,3.95
+3100,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,13.75,10,3.75
+3100,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,17.95,9,8.95
+3100,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,15.5,8,7.5
+3100,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,16.95,9,7.95
+3100,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,17.95,9,8.95
+3100,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,24.95,13,11.95
+3100,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,29.95,15,14.95
+3100,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,29.95,10,19.95
+3100,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,29.95,15,14.95
+3100,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Other Mayo Salads,Other Mayo Salads,15.95,9,6.95
+3100,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,21.95,11,10.95
+3100,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,25,19,6
+3100,Unknown,Unknown,Unknown,Unknown,Unknown,12,9,3
+3100,Unknown,Unknown,Unknown,Unknown,Unknown,12,9,3
+3100,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,21.95,12,9.95
+3100,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,14.95,8,6.95
+3100,Meat Fish,Pork,Roasted Whole Pork Pieces,Pork Tenderloin,Pork Tenderloin,44.95,35,9.95
+3100,Dairy And Cold Storage,Ready To Eat Meals,Sandwiches Wraps,Unknown,Sandwiches Wraps,22.95,17,5.95
+3100,Dairy And Cold Storage,Lunch Meats,Meat,Smoked Saddle Of Pork,Smoked Saddle Of Pork,17.95,9,8.95
+3100,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,7.95,4,3.95
+3100,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,10,7,3
+3100,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,39,26,13
+3100,Dairy And Cold Storage,Ready To Eat Meals,Sandwiches Wraps,Unknown,Sandwiches Wraps,22.95,18,4.95
+3100,Dairy And Cold Storage,Dairy,Cheese,Cream Cheese,Cream Cheese,15,11,4
+3100,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,13.25,10,3.25
+3100,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,30,23,7
+3100,Dairy And Cold Storage,Ready To Eat Meals,Ready To Eat Meat Alternatives,Unknown,Ready To Eat Meat Alternatives,21.95,13,8.95
+3100,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,13.25,7,6.25
+3100,Unknown,Unknown,Unknown,Unknown,Unknown,12,7,5
+3100,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,45.95,35,10.95
+3100,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,17.95,11,6.95
+3100,Unknown,Unknown,Unknown,Unknown,Unknown,10,6,4
+3100,Dairy And Cold Storage,Lunch Meats,Meat,Smoked Saddle Of Pork,Smoked Saddle Of Pork,15.95,9,6.95
+3100,Dairy And Cold Storage,Dairy,Milk,Skimmed Milk,Skimmed Milk,15,11,4
+3100,Unknown,Unknown,Unknown,Unknown,Unknown,15,8,7
+3100,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,17.95,9,8.95
+3100,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,17.95,10,7.95
+3100,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,15.95,8,7.95
+3100,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,39.95,29,10.95
+3100,Dairy And Cold Storage,Dairy,Cream Whipped Cream,Whipping Cream,Whipping Cream,15,8,7
+3000,Unknown,Unknown,Unknown,Unknown,Unknown,65,25,40
+3000,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,19.95,10,9.95
+3000,Dairy And Cold Storage,Dairy,Cheese,Mozarella,Mozarella,25.95,19,6.95
+3000,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,15.25,12,3.25
+3000,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,14.95,11,3.95
+3000,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Turkey,Cold Cuts Turkey,14.25,11,3.25
+3000,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,21.5,9,12.5
+3000,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,33.25,20,13.25
+3000,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Italian Mayo Salads,Italian Mayo Salads,20.95,9,11.95
+3000,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Poultry Mayo Salads,Poultry Mayo Salads,19.75,8,11.75
+3000,Dairy And Cold Storage,Dairy,Desserts Snacks,Unknown,Desserts Snacks,6.5,3,3.5
+3000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,22.95,14,8.95
+3000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,24.95,18,6.95
+3000,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,10,14.95
+3000,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,15,9.95
+3000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,17.95,14,3.95
+3000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,38.95,30,8.95
+3000,Dairy And Cold Storage,Dairy,Butter Fats,Butter,Butter,31.95,20,11.95
+3000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Soured Milk,Soured Milk,19.95,12,7.95
+3000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,16.5,11,5.5
+3000,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,25.95,12,13.95
+3000,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,24.95,16,8.95
+3000,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,16.95,12,4.95
+3000,Dairy And Cold Storage,Fresh Dough And Pancakes,Prepared Pizza Base,Unknown,Prepared Pizza Base,33.95,25,8.95
+3000,Dairy And Cold Storage,Fresh Dough And Pancakes,Prepared Pizza Base,Unknown,Prepared Pizza Base,35.95,25,10.95
+3000,Dairy And Cold Storage,Ready To Eat Meals,Ready To Eat Pizza,Unknown,Ready To Eat Pizza,33.95,20,13.95
+3000,Dairy And Cold Storage,Ready To Eat Meals,Ready To Eat Pizza,Unknown,Ready To Eat Pizza,33.95,25,8.95
+3000,Dairy And Cold Storage,Dairy,Cheese,Blue Cheese Brie,Blue Cheese Brie,22.95,14,8.95
+3000,Dairy And Cold Storage,Potato Accessories,Prepared Potatoes,Unknown,Prepared Potatoes,15.95,12,3.95
+3000,Dairy And Cold Storage,Potato Accessories,potato Salad,Unknown,potato Salad,35.95,25,10.95
+3000,Dairy And Cold Storage,Potato Accessories,Prepared Potatoes,Unknown,Prepared Potatoes,25.95,20,5.95
+3000,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,14.95,8,6.95
+3000,Dairy And Cold Storage,Dairy,Cheese,Mozarella,Mozarella,24.95,14,10.95
+3000,Dairy And Cold Storage,Dairy,Cheese,Mozarella,Mozarella,28.95,19,9.95
+3000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,18.95,13,5.95
+3000,Bread And Cakes,Rye Breads,Other Rye Breads,Unknown,Other Rye Breads,5.75,4,1.75
+3000,Dairy And Cold Storage,Dairy,Cheese,Cheese Specialities,Cheese Specialities,19.95,15,4.95
+3000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,29.95,16,13.95
+3000,Beverages,Juice Smoothies,Other Fruit Juices,Unknown,Other Fruit Juices,36.95,18,18.95
+3000,Beverages,Juice Smoothies,Apple Juices,Unknown,Apple Juices,29.95,20,9.95
+3000,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,25.95,14,11.95
+3000,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Other Mayo Salads,Other Mayo Salads,19.95,9,10.95
+3000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,14.5,11,3.5
+3000,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,15.95,12,3.95
+3000,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,17.95,10,7.95
+3000,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,25.95,10,15.95
+3000,Dairy And Cold Storage,Dairy,Cheese,Shredded Cheese Toppings,Shredded Cheese Toppings,21.95,12,9.95
+3000,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,22.95,14,8.95
+3000,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,32.95,24,8.95
+3000,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,15.95,9,6.95
+3000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Drinking Yoghurt Kids Yoghurt,Drinking Yoghurt Kids Yoghurt,12.95,9,3.95
+3000,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,24.95,11,13.95
+3000,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Chicken Sausages,Chicken Sausages,13.95,7,6.95
+3000,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,16.95,9,7.95
+3000,Meat Fish,Pork,Roasted Whole Pork Pieces,Pork Tenderloin,Pork Tenderloin,69.95,42,27.95
+3000,Dairy And Cold Storage,Dairy,Cheese,Mozarella,Mozarella,34.95,20,14.95
+3000,Dairy And Cold Storage,Dairy,Cheese,Cottage Cheese,Cottage Cheese,14.95,11,3.95
+3000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,30.95,20,10.95
+3000,Dairy And Cold Storage,Sauces Dressings,Dressings,Unknown,Dressings,21.95,17,4.95
+3000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Drinking Yoghurt Kids Yoghurt,Drinking Yoghurt Kids Yoghurt,12.95,9,3.95
+3000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,6.95,4,2.95
+3000,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,17.95,9,8.95
+3000,Bread And Cakes,Light Breads Dark Breads,Whole Breads,Unknown,Whole Breads,26.95,8,18.95
+3000,Bread And Cakes,Light Breads Dark Breads,Whole Breads,Unknown,Whole Breads,26.95,8,18.95
+3000,Bread And Cakes,Rye Breads,Rye Breads With Carrots,Unknown,Rye Breads With Carrots,25.5,9,16.5
+3000,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,9.75,7,2.75
+3000,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,19.95,11,8.95
+3000,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,10.5,8,2.5
+3000,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,32.95,15,17.95
+3000,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,23.95,11,12.95
+3000,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,15.5,12,3.5
+3000,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,27.5,14,13.5
+3000,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,15.95,12,3.95
+3000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,14.95,10,4.95
+3000,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,14.95,9,5.95
+3000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Drinking Yoghurt Kids Yoghurt,Drinking Yoghurt Kids Yoghurt,23.95,11,12.95
+3000,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,17.95,9,8.95
+3000,Dairy And Cold Storage,Lunch Meats,Meat,Corned Beef,Corned Beef,19.95,9,10.95
+3000,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,16.95,9,7.95
+3000,Bread And Cakes,Bread Specialities,Burger Buns,Unknown,Burger Buns,21.95,17,4.95
+3000,Bread And Cakes,Rye Breads,Other Rye Breads,Unknown,Other Rye Breads,22.95,14,8.95
+3000,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,39.95,21,18.95
+3000,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,36.25,20,16.25
+3000,Dairy And Cold Storage,Dairy,Cream Whipped Cream,Whipping Cream,Whipping Cream,17.25,12,5.25
+3000,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,8.95,7,1.95
+3000,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,19.95,8,11.95
+3000,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,15,9.95
+3000,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,24.95,15,9.95
+3000,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,14.25,11,3.25
+3000,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,20.75,16,4.75
+3000,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Fish Mayo Salads,Fish Mayo Salads,20.95,9,11.95
+3000,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,26.95,6,20.95
+3000,Dairy And Cold Storage,Lunch Meats,Meat,Smoked Saddle Of Pork,Smoked Saddle Of Pork,17.95,12,5.95
+3000,Dairy And Cold Storage,Dairy,Cheese,Blue Cheese Brie,Blue Cheese Brie,45.95,18,27.95
+3000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,30.95,10,20.95
+3000,Dairy And Cold Storage,Dairy,Cheese,Sliced Cheese,Sliced Cheese,22.95,18,4.95
+3000,Dairy And Cold Storage,Fresh Pasta,Fresh Pasta Without Fillings,Unknown,Fresh Pasta Without Fillings,23.95,16,7.95
+3000,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,21.95,12,9.95
+3000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Buttermilk,Buttermilk,13.75,10,3.75
+3000,Dairy And Cold Storage,Dairy,Milk,Semiskimmed Milk,Semiskimmed Milk,10.75,8,2.75
+3000,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,17.95,10,7.95
+3000,Meat Fish,Pork,Thick Sausages,Unknown,Thick Sausages,34.95,25,9.95
+3000,Dairy And Cold Storage,Dairy,Milk,Skimmed Milk,Skimmed Milk,10.75,8,2.75
+3000,Dairy And Cold Storage,Lunch Meats,Meat Balls,Unknown,Meat Balls,19.75,15,4.75
+3000,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,19.75,12,7.75
+3000,Dairy And Cold Storage,Lunch Meats,Meat,Salami,Salami,16.95,12,4.95
+3000,Dairy And Cold Storage,Dairy,Milk,Skimmed Milk,Skimmed Milk,17.95,14,3.95
+3000,Dairy And Cold Storage,Lunch Meats,Meat,Roastbeef,Roastbeef,20.95,10,10.95
+3000,Dairy And Cold Storage,Ready To Eat Meals,Sandwiches Wraps,Unknown,Sandwiches Wraps,22.95,12,10.95
+3000,Dairy And Cold Storage,Ready To Eat Meals,Sandwiches Wraps,Unknown,Sandwiches Wraps,37.95,14,23.95
+3000,Dairy And Cold Storage,Potato Accessories,Prepared Potatoes,Unknown,Prepared Potatoes,15.95,12,3.95
+3000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,29.95,16,13.95
