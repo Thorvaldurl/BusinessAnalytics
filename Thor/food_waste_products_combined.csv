@@ -1,349 +1,150 @@
-zip_code,broad_category,least_category,mid_category,fine_category,final_category,description,original_price,new_price,discount
-2700,Unknown,Unknown,Unknown,Unknown,Unknown,RIBBENSSTEG,59.9,32.95,26.95
-2700,Meat Fish,Pork,Roasted Whole Pork Pieces,Roasted Pork,Roasted Pork,RIBBENSSTEG,69.0,30.0,39.0
-2700,Unknown,Unknown,Unknown,Unknown,Unknown,GRILLMARKED,36.0,20.0,16.0
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,KØDPØLSE 9% 3-STJERNET,19.95,7.0,12.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,JÆGERPØLSE 3-STJERNET,19.95,6.0,13.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Corned Beef,Corned Beef,SALTKØD PÅLÆKKER,18.95,3.0,15.95
-2700,Meat Fish,spareribs Barbecue Meat,Unknown,Unknown,spareribs Barbecue Meat,FALAFEL SUPER KRÆS,35.95,10.0,25.95
-2700,Bread And Cakes,Crackers Crisp Bread,Crisp Bread,Unknown,Crisp Bread,DELIKATESSE WASA,24.95,16.0,8.95
-2700,Dairy And Cold Storage,Bacon Sausages Toppings,Chopped Ham,Unknown,Chopped Ham,SKINKESTRIMLER STEFF H.,49.95,15.0,34.95
-2700,Dairy And Cold Storage,Fresh Dough And Pancakes,fresh Dough,Unknown,fresh Dough,FULDK. PIZZADEJ SALLING,13.95,6.0,7.95
-2700,Dairy And Cold Storage,Dairy,Desserts Snacks,Unknown,Desserts Snacks,SNITTE MUNCHMALLOW,6.5,2.0,4.5
-2700,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,HUMMUS HVIDLØG SALLING,24.95,5.0,19.95
-2700,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Italian Mayo Salads,Italian Mayo Salads,ITALIENSK SALAT SALLING,15.95,9.0,6.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Roastbeef,Roastbeef,ROASTBEEF BUDGET,14.5,5.0,9.5
-2700,Dairy And Cold Storage,Fresh Pasta,Fresh Pasta With Fillings,Unknown,Fresh Pasta With Fillings,TORTELLONI BASI SALLING,19.95,15.0,4.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat Balls,Unknown,Meat Balls,KYL. FRIKADELLE TULIP,26.95,20.0,6.95
-2700,Dairy And Cold Storage,Potato Accessories,Prepared Potatoes,Unknown,Prepared Potatoes,HVIDLØG KARTOFL PEKA,26.95,15.0,11.95
-2700,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,CHORIZO PØLSER CARL V.,39.95,30.0,9.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Salami,Salami,SDJ. SPEGEPØLSE DELIKA,23.95,12.0,11.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,RØGET MEDISTER GØL,38.95,17.0,21.95
-2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,OLIVEN MIX SALLING,24.95,11.0,13.95
-2700,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,ØKOBACON POSTEJ ØKO FRILAND,18.95,9.0,9.95
-2700,Dairy And Cold Storage,Lunch Meats,Plant Based Toppings,Unknown,Plant Based Toppings,GRØNTSAGSPOSTEJ D.G. SLAGTER,18.25,6.0,12.25
-2700,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,TOMATPESTO SALLING,24.95,15.0,9.95
-2700,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,PERSILLE PESTO SALLING,24.95,15.0,9.95
-2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,OLIVEN MED CHIL SALLING,24.95,15.0,9.95
-2700,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,HUMMUS M. TOMAT SALLING,24.95,15.0,9.95
-2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,GRØNNE OLIVEN SALLING,24.95,15.0,9.95
-2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,OSTETERN TOM/BA SALLING,24.95,15.0,9.95
-2700,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,BACONPEBER POST STRYHNS,24.95,10.0,14.95
-2700,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Fish Mayo Salads,Fish Mayo Salads,KRABBESALAT GRAASTEN SMJ,31.95,20.0,11.95
-2700,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,BOLLER I KARRY STEFF H.,43.95,35.0,8.95
-2700,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,CHILLI/OST PØLS CARL V.,39.95,30.0,9.95
-2700,Meat Fish,Lamb,Unknown,Unknown,Lamb,LAMMECULOTTE SLAGTEREN,69.0,45.0,24.0
-2700,Unknown,Unknown,Unknown,Unknown,Unknown,KYLLINGESPYD SLAGTEREN,69.0,45.0,24.0
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Roastbeef,Roastbeef,ROASTBEEF 3 STJERNET,20.95,3.0,17.95
-2700,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,BACONPOSTEJ SALLING,19.95,10.0,9.95
-2700,Meat Fish,Pork,Thick Sausages,Unknown,Thick Sausages,MEDISTER 500G SLAGTEREN,34.95,25.0,9.95
-2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,SERRANO WRAP SALLING,24.95,4.0,20.95
-2700,Meat Fish,Pork,Roasted Whole Pork Pieces,Pork Tenderloin,Pork Tenderloin,MØRBRAD ANTONIUS,69.95,55.0,14.95
-2700,Dairy And Cold Storage,Tapas Specialities,Sausages Specialities,Unknown,Sausages Specialities,MINI CHORIZO SALLING,24.95,5.0,19.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Smoked Saddle Of Pork,Smoked Saddle Of Pork,HAMBURGERRYG PÅLÆKKER,15.95,9.0,6.95
-2700,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,HVEDECIABATTA KOHBERG,24.5,13.0,11.5
-2700,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,GRØDBOLLER KOHBERG,24.95,19.0,5.95
-2700,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,GILLELEJE HAVN SIGNATURBRØD,15.95,12.0,3.95
-2700,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,SOLSIKKERUGBRØD SALLING,8.95,7.0,1.95
-2700,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,SANDWICH RUGBRØ LEVEBRØD,14.95,11.0,3.95
-2700,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,SANDW.KLAP GOLD HAT,24.95,19.0,5.95
-2700,Bread And Cakes,Rye Breads,Other Rye Breads,Unknown,Other Rye Breads,SLESVIGERBRØD SCHULSTAD,18.95,15.0,3.95
-2700,Bread And Cakes,Rye Breads,Other Rye Breads,Unknown,Other Rye Breads,SCHWARZBROT SALLING,8.0,6.0,2.0
-2700,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,SOLSKINSBOLLER KOHBERG,23.95,11.0,12.95
-2700,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,PASTA CARBONARA SALLING NU,30.95,20.0,10.95
-2700,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,RISOTTO TRØFFEL SALLING NU,30.95,20.0,10.95
-2700,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,RISOTTO CHAMPIG SALLING NU,30.95,20.0,10.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,KYLLINGEFILET PÅLÆKKER,15.95,4.0,11.95
-2700,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,ØKO LEVERPOSTEJ AALBÆK,21.95,5.0,16.95
-2700,Meat Fish,Pork,Other Pork,Meat Fish,Meat Fish,ØKO FLÆSKESTEG SALLING ØKO,149.0,84.0,65.0
-2700,Dairy And Cold Storage,Tapas Specialities,Cold Cuts Specialities,Unknown,Cold Cuts Specialities,KEULENSKINKE SALLING,32.95,10.0,22.95
-2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,SMÅ RØDE PEBER SALLING,24.95,11.0,13.95
-2700,Dairy And Cold Storage,Bacon Sausages Toppings,Chopped Ham,Unknown,Chopped Ham,SKINKESTRIMLER BUDGET,18.75,11.0,7.75
-2700,Dairy And Cold Storage,Fresh Dough And Pancakes,Pancakes,Unknown,Pancakes,PROTEINPANDEK. MAMMA,19.95,15.0,4.95
-2700,Bread And Cakes,Crackers Crisp Bread,Crisp Bread,Unknown,Crisp Bread,SPORT WASA,21.95,16.0,5.95
-2700,Bread And Cakes,Crackers Crisp Bread,Crisp Bread,Unknown,Crisp Bread,SESAM DELIKATES WASA,22.95,16.0,6.95
-2700,Bread And Cakes,Crackers Crisp Bread,Crisp Bread,Unknown,Crisp Bread,FRUKOST WASA,24.95,16.0,8.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,RØGET MØRBRAD PRINCIP,24.95,8.0,16.95
-2700,Meat Fish,Chicken,Other Chicken,Unknown,Other Chicken,KYLLINGEBURGER SLAGTEREN,69.0,50.0,19.0
-2700,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Cocktail Sausages Brunch Sausages,Cocktail Sausages Brunch Sausages,COCKTAILPØLSER SALLING ØKO,24.95,19.0,5.95
-2700,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Poultry Mayo Salads,Poultry Mayo Salads,HØNSESALAT SALLING,14.95,9.0,5.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,RØGET FILET BUDGET,14.25,5.0,9.25
-2700,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,HUMMUS BASILKUM SALLING,24.95,15.0,9.95
-2700,Dairy And Cold Storage,Potato Accessories,Prepared Potatoes,Unknown,Prepared Potatoes,SMÅ KARTOF. PEKA,15.95,12.0,3.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Ham,Cold Cuts Ham,LANDSKINKE 3 STJERNET,17.95,10.0,7.95
-2700,Dairy And Cold Storage,Bacon Sausages Toppings,Chopped Ham,Unknown,Chopped Ham,SKINKESTRIMLER SALLING,19.95,11.0,8.95
-2700,Dairy And Cold Storage,Ready To Eat Meals,Ready To Eat Pizza,Unknown,Ready To Eat Pizza,SKINKE OG OST CASA T,39.95,25.0,14.95
-2700,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,BACON POSTEJ STRYHNS,29.95,16.0,13.95
-2700,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,GRÆSK Y. 0% JOR ATHENA,8.95,5.0,3.95
-2700,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,TRIO HUMMUS SALLING,24.95,15.0,9.95
-2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,PEPPADEW M OST SALLING,24.95,3.0,21.95
-2700,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,TOMAT BRUSCHETT VORES TAPAS,24.95,3.0,21.95
-2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,FYLDT RØD PEBER SALLING,24.95,3.0,21.95
-2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,KALAMATA OLIVEN SALLING ØKO,25.95,3.0,22.95
-2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,CHAMPIGNON SALLING,24.95,3.0,21.95
-2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,PEPPADEW HON/SE VORES TAPAS,24.95,3.0,21.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,SAN. KYLLING PÅLÆKKER,15.95,6.0,9.95
-2700,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,BACONPOSTEJ D.G. SLAGTER,16.95,6.0,10.95
-2700,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,OSTEBOMBEREN STEFF H,69.95,8.0,61.95
-2700,Dairy And Cold Storage,Sauces Dressings,Sauce,Unknown,Sauce,PIZZASAUCE SALLING,16.95,3.0,13.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Smoked Saddle Of Pork,Smoked Saddle Of Pork,HAMBURGERRYG 3 STJERNET,17.95,3.0,14.95
-2700,Beverages,Juice Smoothies,Fruit Shots Vegetable Shots,Unknown,Fruit Shots Vegetable Shots,INGEFÆRSHOT SALLING,17.95,9.0,8.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,KØDPØLSE SALLING,14.95,3.0,11.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,LØVEPÅLÆG SALLING,14.95,3.0,11.95
-2700,Dairy And Cold Storage,Potato Accessories,potato Salad,Unknown,potato Salad,KARTOFFELSALAT 800 G,35.95,20.0,15.95
-2700,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,SOLSIKKERUGBRØD DET GODE,26.95,6.0,20.95
-2700,Dairy And Cold Storage,Lunch Meats,Prepared Chicken,Unknown,Prepared Chicken,TILB KRYDR KYLL SALLING,22.95,3.0,19.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,RØGET RULLEPØLS SALLING,16.95,3.0,13.95
-2700,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,GROV LET POSTEJ STRYHNS,22.95,10.0,12.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,RØGET RULLEPØLS 3 STJERNET,17.95,6.0,11.95
-2700,Meat Fish,Pork,Other Pork,Unknown,Other Pork,TYKSTEG AF GRIS SLAGTEREN,69.0,42.0,27.0
-2700,Dairy And Cold Storage,Ready To Eat Meals,Ready To Eat Pizza,Unknown,Ready To Eat Pizza,PIZZA M/KYLLING CASA T,33.95,20.0,13.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,KAMSTEG SALLING,16.95,5.0,11.95
-2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,FYLDTE PEPPADEW SALLING,24.95,11.0,13.95
-2700,Dairy And Cold Storage,Ready To Eat Meals,Ready To Eat Pizza,Unknown,Ready To Eat Pizza,PIZZA M/4 OSTE 400 G,33.95,25.0,8.95
-2700,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,TÆRTE SALLING NU,25.0,10.0,15.0
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Roastbeef,Roastbeef,ROASTBEEF HAMMEL,23.95,16.0,7.95
-2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,KYLLINGE SPYD SALLING,24.95,5.0,19.95
-2700,Dairy And Cold Storage,Bacon Sausages Toppings,Chopped Ham,Unknown,Chopped Ham,SKINKETERN SALLING,14.95,3.0,11.95
-2700,Dairy And Cold Storage,Potato Accessories,Prepared Potatoes,Unknown,Prepared Potatoes,KARTOF.BÅDE URT PEKA,15.95,12.0,3.95
-2700,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,KYLLING SUR/SØD SALLING NU,32.95,10.0,22.95
-2700,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,BACON POSTEJ SALLING,14.95,8.0,6.95
-2700,Bread And Cakes,Light Breads Dark Breads,Whole Breads,Unknown,Whole Breads,5-KORNS BRØD SCHULSTAD,26.95,8.0,18.95
-2700,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,GROV POSTEJ STRYHNS,29.95,16.0,13.95
-2700,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,HOTDOGPØLSER STEFF H.,36.25,8.0,28.25
-2700,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Drinking Yoghurt Kids Yoghurt,Drinking Yoghurt Kids Yoghurt,HINDBÆR DRIK LF ARLA CULTURA,12.95,9.0,3.95
-2700,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,BURRITO SALLING NU,30.95,8.0,22.95
-2700,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Chicken Sausages,Chicken Sausages,KYLLINGE PØLSER SALLING,13.95,3.0,10.95
-2700,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,KYLLING BURRITO SALLING NU,30.0,8.0,22.0
-2700,Dairy And Cold Storage,Ready To Eat Meals,Ready To Eat Meat Alternatives,Unknown,Ready To Eat Meat Alternatives,DILD-DELLEN PLANTESLAGT.,31.95,6.0,25.95
-2700,Unknown,Unknown,Unknown,Unknown,Unknown,PÅLÆGSMIX HENSYN,16.5,10.0,6.5
-2700,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,CHEEZY CHILI STEFF H.,37.95,20.0,17.95
-2700,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,FRANSK POSTEJ SALLING,14.95,8.0,6.95
-2700,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,GUACAMOLE SALLING,24.95,12.0,12.95
-2700,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,RAMSLØGSGRILLER CARL V.,39.95,20.0,19.95
-2700,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,RUG-GO SOLSIKKE DET GODE,21.95,9.0,12.95
-2700,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,FRANSK POSTEJ STRYHNS,29.95,16.0,13.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,RULLEPØLSE 3 STJERNET,17.95,9.0,8.95
-2700,Dairy And Cold Storage,Lunch Meats,Plant Based Toppings,Unknown,Plant Based Toppings,VEGGIE SALAMI D.G. SLAGTER,18.95,9.0,9.95
-2700,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,TRIO PESTO/HUM SALLING,24.95,3.0,21.95
-2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,RØD PEBER M OST SALLING,24.95,3.0,21.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Smoked Saddle Of Pork,Smoked Saddle Of Pork,HAMBURGERRYG SALLING,15.95,5.0,10.95
-2700,Bread And Cakes,Crackers Crisp Bread,Crisp Bread,Unknown,Crisp Bread,RÅGI WASA,21.95,16.0,5.95
-2700,Dairy And Cold Storage,Dairy,Plant Based Alternatives,Plant Based Milk Alternatives,Plant Based Milk Alternatives,SOYA DRIK SALLING,10.75,10.0,0.75
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,CERVELAT PØLSE L. HENRIKSEN,20.75,16.0,4.75
-2700,Dairy And Cold Storage,Potato Accessories,potato Salad,Unknown,potato Salad,KARTOFFELSALAT SALLING,30.95,9.0,21.95
-2700,Meat Fish,spareribs Barbecue Meat,Unknown,Unknown,spareribs Barbecue Meat,KYLLINGEKEBAB SUPER KRÆS,39.95,10.0,29.95
-2700,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,GRÆSK YOG. 10% SALLING ØKO,19.75,15.0,4.75
-2700,Meat Fish,Pork,Thick Sausages,Unknown,Thick Sausages,MEDISTER SLAGTEREN,39.0,25.0,14.0
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,KYLLINGEBRYST 3 STJERNET,17.95,9.0,8.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat Balls,Unknown,Meat Balls,FRIKADELLER DGS,27.95,10.0,17.95
-2700,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,SANDW. KYLLING 3-STJERNET,19.95,3.0,16.95
-2700,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Drinking Yoghurt Kids Yoghurt,Drinking Yoghurt Kids Yoghurt,BLÅBÆR DRIK LF ARLA CULTURA,12.95,9.0,3.95
-2700,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,MÅNEDENS RET SALLING NU,30.95,10.0,20.95
-2700,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,KYLLINGEPOSTEJ ØKO FRILAND,16.5,6.0,10.5
-2700,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,KALAMATA OLIVEN PRINCIP,25.95,11.0,14.95
-2700,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,PENNE TOMAT/RIC SALLING NU,30.95,8.0,22.95
-2700,Meat Fish,spareribs Barbecue Meat,Unknown,Unknown,spareribs Barbecue Meat,SPARERIBS JENSENS,59.95,33.0,26.95
-2800,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,GRILLFILET SLAGTEREN,99.0,40.0,59.0
-2800,Meat Fish,Lamb,Unknown,Unknown,Lamb,LAMMEKØLLE SE PRISEN PÅ VAREN,89.9,67.43,22.47
-2800,Unknown,Unknown,Unknown,Unknown,Unknown,KOTELETTER M/ GRØNT/KAR,59.0,44.0,15.0
-2800,Unknown,Unknown,Unknown,Unknown,Unknown,MAR. KAMBEN KG SLAGTEREN,59.9,44.93,14.97
-2800,Dairy And Cold Storage,Dairy,Cheese,Cheese Specialities,Cheese Specialities,ROBIOLA ZANETTI,14.95,7.0,7.95
-2800,Meat Fish,Pork,Other Pork,Unknown,Other Pork,TYKSTEG AF GRIS SLAGTEREN,69.0,41.0,28.0
-2800,Bread And Cakes,Bread Specialities,Naan Breads Flat Breads,Unknown,Naan Breads Flat Breads,FLADBRØD LIBA,10.95,8.0,2.95
-2800,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,FULDKORNSSAND. SALLING,8.25,6.0,2.25
-2800,Bread And Cakes,Bread Specialities,Pita Bread,Unknown,Pita Bread,MINI PITABRØD SALLING P.,14.95,11.0,3.95
-2800,Bread And Cakes,Bread Specialities,Pita Bread,Unknown,Pita Bread,FULDKORNS PITA SALLING,14.5,8.0,6.5
-2800,Unknown,Unknown,Unknown,Unknown,Unknown,KROGMODNET KAM LUDVIG,179.0,140.0,39.0
-2800,Meat Fish,Pork,Other Pork,Meat Fish,Meat Fish,FLÆSKESTEG ANTONUIS,179.0,129.0,50.0
-2800,Meat Fish,Pork,Pork Chops Pork Schnitzels,Unknown,Pork Chops Pork Schnitzels,FLÆSK I SKIVER SLAGTEREN,43.95,35.0,8.95
-2800,Bread And Cakes,Bread Specialities,Burger Buns,Unknown,Burger Buns,BURGER PRETZELS SAL PRINCIP,27.95,20.0,7.95
-2800,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,DGR. SOLSIKKE DET GODE,25.5,9.0,16.5
-2800,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,SOLSIKKE RUGBR. SALLING,9.75,7.0,2.75
-2800,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,SOLSIKKERUGBRØD SALLING,8.95,6.0,2.95
-2800,Bread And Cakes,Rye Breads,Rye Breads With Carrots,Unknown,Rye Breads With Carrots,GULERODSRUGBR DET GODE,25.5,9.0,16.5
-2800,Bread And Cakes,Rye Breads,Other Rye Breads,Unknown,Other Rye Breads,SLESVIGERBRØD SCHULSTAD,18.95,10.0,8.95
-2800,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,DURUM CAFE SAND KOHBERG,21.95,17.0,4.95
-2800,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,GROV CAFE SANDW KOHBERG,23.95,10.0,13.95
-2800,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,PROTEIN SANDWIC KOHBERG,22.95,10.0,12.95
-2800,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,SKOVMAND SCHULSTAD,13.25,9.0,4.25
-2800,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,OSTETERN TOM/BA SALLING,24.95,10.0,14.95
-2800,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,SOLSIKKERUGBR. KOHBERG,21.95,10.0,11.95
-2800,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,KERNERUGBRØ SALLING ØKO,15.95,10.0,5.95
-2800,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,SOLSIKKERUGBRØD SALLING,19.95,14.0,5.95
-2800,Dairy And Cold Storage,Ready To Eat Meals,Dinner Salads,Unknown,Dinner Salads,ITALIENSK TPK,39.95,28.0,11.95
-2800,Dairy And Cold Storage,Dairy,Cheese,Sliced Cheese,Sliced Cheese,PERLE CHILI CHEESEMAKERS,22.95,18.0,4.95
-2800,Bread And Cakes,Rye Breads,Other Rye Breads,Unknown,Other Rye Breads,MØRKT RUGBRØD SALLING,5.75,4.0,1.75
-2800,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,FAMILIERUGBRØD KOHBERG,19.95,8.0,11.95
-2800,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,FULDK KRYDDERBO SALLING,10.5,8.0,2.5
-2800,Dairy And Cold Storage,Dairy,Cheese,Cream Cheese,Cream Cheese,TRØFFEL BOURSIN,29.95,15.0,14.95
-2800,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,GROV POSTEJ STRYHNS,29.95,16.0,13.95
-2800,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,HOTDOGPØLSER STEFF H.,36.25,20.0,16.25
-2800,Dairy And Cold Storage,Sauces Dressings,Remoulade Mayonnaise,Unknown,Remoulade Mayonnaise,MAYONNAISE SALLING,16.95,9.0,7.95
-2800,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Other Mayo Salads,Other Mayo Salads,PEBERRODSSALAT BUDGET,16.0,7.0,9.0
-2800,Dairy And Cold Storage,Ready To Eat Meals,Ready To Eat Pizza,Unknown,Ready To Eat Pizza,PIZZA M/SKINKE CASA T,33.95,20.0,13.95
-2800,Dairy And Cold Storage,Ready To Eat Meals,Sandwiches Wraps,Unknown,Sandwiches Wraps,SANDW TUN/CHILI BY KAVSMAN,37.95,23.0,14.95
-2800,Dairy And Cold Storage,Dairy,Cheese,Blue Cheese Brie,Blue Cheese Brie,LE PETIT BRIE PRÉSIDENT,74.95,30.0,44.95
-2800,Bread And Cakes,Light Breads Dark Breads,Whole Breads,Unknown,Whole Breads,SKAGENSBRØD SCHULSTAD,26.95,9.0,17.95
-2800,Dairy And Cold Storage,Dairy,Cheese,Blue Cheese Brie,Blue Cheese Brie,BRIE PORTIONER PRÉSIDENT,69.95,25.0,44.95
-2800,Dairy And Cold Storage,Dairy,Cheese,Blue Cheese Brie,Blue Cheese Brie,SPIDSBRIE PRÉSIDENT,35.95,17.0,18.95
-2800,Dairy And Cold Storage,Dairy,Cheese,Blue Cheese Brie,Blue Cheese Brie,L'OVALE BRIE PRESIDENT,36.5,20.0,16.5
-2800,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Soured Milk,Soured Milk,"TYKMÆLK 3,5% KLØVER",18.5,14.0,4.5
-2800,Dairy And Cold Storage,Lunch Meats,Meat,Smoked Saddle Of Pork,Smoked Saddle Of Pork,HAMBURGERRYG PÅLÆKKER,15.95,5.0,10.95
-2800,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,HVIDLØGSPATE STEFF H.,19.95,15.0,4.95
-2800,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,GROV LET POSTEJ STRYHNS,22.95,10.0,12.95
-2800,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,MULTIKER.SANDW LEVEBRØD,25.0,9.0,16.0
-2800,Dairy And Cold Storage,Dairy,Cheese,Blue Cheese Brie,Blue Cheese Brie,BRIE NATUREL PRÉSIDENT,24.95,15.0,9.95
-2800,Dairy And Cold Storage,Dairy,Cheese,Cream Cheese,Cream Cheese,BLACK PEPPER CASTELLO,23.5,15.0,8.5
-2800,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,RULLEPØLSE SALLING,13.5,6.0,7.5
-2800,Dairy And Cold Storage,Dairy,Cheese,Sliced Cheese,Sliced Cheese,RØD I SKIVER PRIMA DONNA,34.95,21.0,13.95
-2800,Dairy And Cold Storage,Dairy,Cheese,Blue Cheese Brie,Blue Cheese Brie,SAINT MORGON PRÉSIDENT,31.25,18.0,13.25
-2800,Unknown,Unknown,Unknown,Unknown,Unknown,MEDISTER ANTONIUS,69.0,45.0,24.0
-2800,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Pork Mayo Salads,Pork Mayo Salads,SKINKESALAT FIN K-SALAT,20.95,5.0,15.95
-2800,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,BRØD/PEB HUMMUS SALLING NU,17.95,14.0,3.95
-2800,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Chicken Sausages,Chicken Sausages,MINI KYL.PØLSER SALLING,19.95,15.0,4.95
-2800,Dairy And Cold Storage,Ready To Eat Meals,Sandwiches Wraps,Unknown,Sandwiches Wraps,SANDW. TOM/MOZ BY KAVSMAN,37.95,27.0,10.95
-2800,Dairy And Cold Storage,Fresh Dough And Pancakes,fresh Dough,Unknown,fresh Dough,BUTTERDEJ SALLING,13.25,5.0,8.25
-2800,Dairy And Cold Storage,Ready To Eat Meals,Sandwiches Wraps,Unknown,Sandwiches Wraps,SANDW. KYL/TERI SALLING NU,22.95,15.0,7.95
-2800,Dairy And Cold Storage,Dairy,Cheese,Shredded Cheese Toppings,Shredded Cheese Toppings,PARMIGIANO REG. ZANETTI,25.5,20.0,5.5
-2800,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,GROV POSTEJ STRYHNS,14.95,5.0,9.95
-2800,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,Unknown,Olives Other Attachments,SERRANORULLER SALLING,24.95,10.0,14.95
-2800,Dairy And Cold Storage,Fresh Dough And Pancakes,fresh Dough,Unknown,fresh Dough,PØLSEHORNSDEJ SALLING,13.25,6.0,7.25
-2800,Dairy And Cold Storage,Dairy,Cheese,Cream Cheese,Cream Cheese,TOLKO M. PURLØG CASTELLO,22.5,15.0,7.5
-2800,Meat Fish,Pork,Thick Sausages,Unknown,Thick Sausages,MEDISTER 500G SLAGTEREN,34.95,25.0,9.95
-2800,Bread And Cakes,Crackers Crisp Bread,Crackers,Rice Crackers Corn Crackers,Rice Crackers Corn Crackers,MINI RISKIKS MØ SALLING ØKO,18.95,10.0,8.95
-2800,Dairy And Cold Storage,Ready To Eat Meals,Sandwiches Wraps,Unknown,Sandwiches Wraps,SANDWICH SKINKE SALLING NU,22.95,18.0,4.95
-2800,Bread And Cakes,Crackers Crisp Bread,Crackers,Rice Crackers Corn Crackers,Rice Crackers Corn Crackers,MINI LINSEKIKS SALLING,11.95,10.0,1.95
-2800,Dairy And Cold Storage,Dairy,Cheese,Blue Cheese Brie,Blue Cheese Brie,RUND BRIE PRÉSIDENT,39.95,15.0,24.95
-2800,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,SKYRBOLLE LEVEBRØD,26.95,9.0,17.95
-2800,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,FRANSK POSTEJ STRYHNS,29.95,12.0,17.95
-2800,Bread And Cakes,Bread Specialities,Naan Breads Flat Breads,Unknown,Naan Breads Flat Breads,NAANBRØD SALLING,12.95,8.0,4.95
-2800,Dairy And Cold Storage,Dairy,Cheese,Sliced Cheese,Sliced Cheese,BURGER SKIVEOST PRÉSIDENT,27.95,16.0,11.95
-2800,Dairy And Cold Storage,Ready To Eat Meals,Sandwiches Wraps,Unknown,Sandwiches Wraps,KARRY KYL/BACON READY-TO-EAT,24.95,19.0,5.95
-2800,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,GRÆSK Y. 0% JOR ATHENA,8.95,5.0,3.95
-3100,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,SANDWICH RUGBRØ LEVEBRØD,14.95,8.0,6.95
-3100,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,TIKKA MASALA NÆMT,32.0,23.0,9.0
-3100,Unknown,Unknown,Unknown,Unknown,Unknown,BUTERDEJSSTÆNGE LA FABRIQUE,15.0,11.0,4.0
-3100,Dairy And Cold Storage,Ready To Eat Meals,Sandwiches Wraps,Unknown,Sandwiches Wraps,WRAP M/KYLLING/KARRY NÆMT,22.95,17.0,5.95
-3100,Frozen Products,Ready Meals,Asian Ready Meals,Unknown,Asian Ready Meals,GYOZA KYLLING NÆMT,23.95,19.0,4.95
-3100,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,GYROS AF GRIS DANISH CROWN,34.95,26.0,8.95
-3100,Meat Fish,Pork,Roasted Whole Pork Pieces,Pork Tenderloin,Pork Tenderloin,SVINEMØRBRAD VELSMAG,126.95,77.0,49.95
-3100,Meat Fish,Pork,Other Pork,Meat Fish,Meat Fish,FLÆSKESTEG VELSMAG,89.95,56.0,33.95
-3100,Unknown,Unknown,Unknown,Unknown,Unknown,EMPANADAS OKSE LOS TAQUEROS,35.0,27.0,8.0
-3100,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,PASTA CARBONARA NÆMT,30.0,15.0,15.0
-3100,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,PENNE TOMAT/RIC NÆMT,30.0,17.0,13.0
-3100,Dairy And Cold Storage,Dairy,Cold Coffee Drinks Cacao,Unknown,Cold Coffee Drinks Cacao,ISKAFFE PROTEIN BOLD,16.95,10.0,6.95
-3100,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,HUMMUS FEDTREDUCERET LA CAMPAGNA,19.95,14.0,5.95
-3100,Dairy And Cold Storage,Lunch Meats,Meat,Roastbeef,Roastbeef,ROASTBEEF SMAGEN AF AARHUS,19.95,10.0,9.95
-3100,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,RULLEPØLSE SMAGEN AF AARHUS,17.95,9.0,8.95
-3100,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,KYLLINGEBRYST EGELYKKE,13.75,10.0,3.75
-3100,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,RØGET MEDISTER 3-STJERNET,17.95,9.0,8.95
-3100,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,KYL.BRYST M/URTER MINIMUM,15.5,8.0,7.5
-3100,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,KYL.BRYST CHILI D.G. SLAGTER,16.95,9.0,7.95
-3100,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,BACON-PEBER POSTEJ STRYHNS,24.95,13.0,11.95
-3100,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,GROVHAK. LEVERPOSTEJ STRYHNS,29.95,10.0,19.95
-3100,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Other Mayo Salads,Other Mayo Salads,TUNSALAT EGELYKKE,15.95,9.0,6.95
-3100,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,SOLSIKKE KOHBERG,21.95,11.0,10.95
-3100,Unknown,Unknown,Unknown,Unknown,Unknown,FAVORIT SAUCE S. COOKING,12.0,9.0,3.0
-3100,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,"KØDPØLSE, BAMSE EGELYKKE",14.95,8.0,6.95
-3100,Dairy And Cold Storage,Ready To Eat Meals,Sandwiches Wraps,Unknown,Sandwiches Wraps,SANDW. ÆG/BACON NÆMT,22.95,17.0,5.95
-3100,Dairy And Cold Storage,Lunch Meats,Meat,Smoked Saddle Of Pork,Smoked Saddle Of Pork,HAMBURGERRYG SMAGEN AF AARHUS,17.95,9.0,8.95
-3100,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,NATUREL M/GRANO EGELYKKE,7.95,4.0,3.95
-3100,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,ØKO TOP CUP M/ MANGO LØGISMOSE,10.0,7.0,3.0
-3100,Dairy And Cold Storage,Dairy,Cheese,Cream Cheese,Cream Cheese,KRANS ANANAS CASTELLO,15.0,11.0,4.0
-3100,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,SPAGHETTI BOLOG NÆMT,30.0,23.0,7.0
-3100,Dairy And Cold Storage,Ready To Eat Meals,Ready To Eat Meat Alternatives,Unknown,Ready To Eat Meat Alternatives,FALAFEL SPIR,21.95,13.0,8.95
-3100,Unknown,Unknown,Unknown,Unknown,Unknown,KYLLINGESAUCE JENSENS,12.0,7.0,5.0
-3100,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,RULLEPØLSE EGELYKKE,45.95,35.0,10.95
-3100,Unknown,Unknown,Unknown,Unknown,Unknown,TANTE K. SPEGE BORNHOLMER,10.0,6.0,4.0
-3100,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,RØGET MØRBRAD SMAGEN AARHU,17.95,11.0,6.95
-3100,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,OKSEBRYST SMAGEN AF AARHUS,17.95,9.0,8.95
-3100,Dairy And Cold Storage,Lunch Meats,Meat,Smoked Saddle Of Pork,Smoked Saddle Of Pork,HAMBURGERRYG PÅLÆKKER,15.95,9.0,6.95
-3100,Unknown,Unknown,Unknown,Unknown,Unknown,BEARNAISESAUCE S. COOKING,12.0,9.0,3.0
-3100,Dairy And Cold Storage,Dairy,Cream Whipped Cream,Whipping Cream,Whipping Cream,PISKEFLØDE 36% KAROLINE'S,15.0,8.0,7.0
-3100,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Ham,Cold Cuts Ham,BACH SCHINKE SMAGEN AF AARHUS,17.95,14.0,3.95
-3100,Bread And Cakes,Bread Specialities,Tartlets,Unknown,Tartlets,TARTELETTER PREMIEUR,18.0,14.0,4.0
-3100,Unknown,Unknown,Unknown,Unknown,Unknown,FITROLLS HAVSAL MELVIT,8.0,4.0,4.0
-3100,Unknown,Unknown,Unknown,Unknown,Unknown,MORGENSTYKKER BAKERSFIELD,18.0,14.0,4.0
-3100,Unknown,Unknown,Unknown,Unknown,Unknown,BRIOCHE HOTDOG NORDTHY,15.0,11.0,4.0
-3100,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,FRANSK LEVERPOSTEJ STRYHNS,29.95,15.0,14.95
-3100,Unknown,Unknown,Unknown,Unknown,Unknown,BRØD C. HAVSALT TOTTIS BINGO,10.0,7.0,3.0
-3100,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,STEGT KYLLINGEBRYST MINIMUM,17.95,10.0,7.95
-3100,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,SKOVMAND SCHULSTAD,13.25,7.0,6.25
-3100,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,RØGET FILET PÅLÆKKER,17.95,9.0,8.95
-3100,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,KYLLINGEGYROS NAEMT,30.0,19.0,11.0
-3100,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,PROTEINBRØD KOHBERG,25.95,18.0,7.95
-3100,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,RIS M/KYLLING/LEMON NÆMT,30.0,19.0,11.0
-3100,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,BACON POSTEJ STRYHNS,29.95,15.0,14.95
-3100,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,DET GODE SOL RUGBRØD SCHULSTAD,13.25,10.0,3.25
-3100,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,RØGET MØRBRAD PREMIEUR,29.95,19.0,10.95
-3100,Dairy And Cold Storage,Ready To Eat Meals,Sandwiches Wraps,Unknown,Sandwiches Wraps,SANDWI. KYL/BAC NÆMT,22.95,18.0,4.95
-3100,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,KERNERUGBRØD ØGO,15.95,9.0,6.95
-3000,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,KØDPØLSE 9% 3-STJERNET,19.95,10.0,9.95
-3000,Dairy And Cold Storage,Dairy,Cheese,Mozarella,Mozarella,BURRATA ZANETTI,25.95,19.0,6.95
-3000,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,PROTEINBOLLER KOHBERG,21.5,9.0,12.5
-3000,Dairy And Cold Storage,Dairy,Cheese,Cottage Cheese,Cottage Cheese,HYTTEOST 4% SALLING ØKO,14.95,11.0,3.95
-3000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Drinking Yoghurt Kids Yoghurt,Drinking Yoghurt Kids Yoghurt,BLÅBÆR DRIK LF ARLA CULTURA,12.95,9.0,3.95
-3000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Yoghurt,YOGHURT NATUREL SALLING,6.95,4.0,2.95
-3000,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,Cold Cuts Chicken,KYLLINGEBRYST 3 STJERNET,17.95,9.0,8.95
-3000,Bread And Cakes,Light Breads Dark Breads,Whole Breads,Unknown,Whole Breads,5-KORNS BRØD SCHULSTAD,26.95,8.0,18.95
-3000,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,SOLSIKKE RUGBR. SALLING,9.75,7.0,2.75
-3000,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,BAMSEBOLLER KOHBERG,19.95,11.0,8.95
-3000,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,HVEDE SANDWICH SALLING,10.5,8.0,2.5
-3000,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,Unknown,Light Dark Buns,SOLSKINSBOLLER KOHBERG,23.95,11.0,12.95
-3000,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,HVEDE SANDWICH SALLING,15.5,12.0,3.5
-3000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,LEVERPOSTEJ BUDGET,14.5,11.0,3.5
-3000,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,RULLEPØLSE 3 STJERNET,17.95,9.0,8.95
-3000,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,RØGET FILET SALLING,16.95,9.0,7.95
-3000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,KYLLINGEPOSTEJ ØKO FRILAND,16.5,11.0,5.5
-3000,Bread And Cakes,Bread Specialities,Burger Buns,Unknown,Burger Buns,BURGER ORIGINAL HATTING,21.95,17.0,4.95
-3000,Bread And Cakes,Rye Breads,Other Rye Breads,Unknown,Other Rye Breads,BALANCE RUGBRØD KOHBERG,22.95,14.0,8.95
-3000,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,RAMSLØGSGRILLER CARL V.,39.95,21.0,18.95
-3000,Dairy And Cold Storage,Dairy,Cream Whipped Cream,Whipping Cream,Whipping Cream,PISKEFLØDE 36% KAROLINE'S,17.25,12.0,5.25
-3000,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Turkey,Cold Cuts Turkey,KALKUNBRYST BUDGET,14.25,11.0,3.25
-3000,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,CHILISAUCE SALLING,24.95,15.0,9.95
-3000,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,Sliced Lunch Meats,RØGET FILET BUDGET,14.25,11.0,3.25
-3000,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,CERVELAT PØLSE L. HENRIKSEN,20.75,16.0,4.75
-3000,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Fish Mayo Salads,Fish Mayo Salads,MAKRELSALAT K-SALAT,20.95,9.0,11.95
-3000,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,SOLSIKKERUGBRØD DET GODE,26.95,6.0,20.95
-3000,Dairy And Cold Storage,Dairy,Cheese,Blue Cheese Brie,Blue Cheese Brie,CAMEMBERT PRESIDENT,45.95,18.0,27.95
-3000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,GROV LET POSTEJ STRYHNS,22.95,14.0,8.95
-3000,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,FULDK. SANDWICH SALLING,15.25,12.0,3.25
-3000,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,Unknown,Dinner Meals,PASTA CARBONARA SALLING NU,30.95,10.0,20.95
-3000,Dairy And Cold Storage,Fresh Pasta,Fresh Pasta Without Fillings,Unknown,Fresh Pasta Without Fillings,PAPPARDELLE PRINCIP,23.95,16.0,7.95
-3000,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,SURDEJ CAFE BUR KOHBERG,21.95,12.0,9.95
-3000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Buttermilk,Buttermilk,KÆRNEMÆLK ARLA,13.75,10.0,3.75
-3000,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,Meat Sausage,KØDPØLSE 3-STJERNET,17.95,10.0,7.95
-3000,Meat Fish,Pork,Thick Sausages,Unknown,Thick Sausages,MEDISTER 500G SLAGTEREN,34.95,25.0,9.95
-3000,Dairy And Cold Storage,Dairy,Milk,Skimmed Milk,Skimmed Milk,ØKO LETMÆLK NATURMÆLK,10.75,8.0,2.75
-3000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Soured Milk,Soured Milk,"A38 1,5% ARLA",19.95,12.0,7.95
-3000,Dairy And Cold Storage,Dairy,Cream Whipped Cream,Whipping Cream,Whipping Cream,PISKEFLØDE 36% SALLING,29.95,20.0,9.95
-3000,Dairy And Cold Storage,Dairy,Cheese,Mozarella,Mozarella,BURRATA ØKO LA TRECCIA,34.95,20.0,14.95
-3000,Bread And Cakes,Rye Breads,Rye Breads With Carrots,Unknown,Rye Breads With Carrots,GULERODSRUGBR DET GODE,25.5,9.0,16.5
-3000,Bread And Cakes,Rye Breads,Seeded Rye Breads,Unknown,Seeded Rye Breads,FAMILIERUGBRØD KOHBERG,19.95,8.0,11.95
-3000,Dairy And Cold Storage,Lunch Meats,Meat,Smoked Saddle Of Pork,Smoked Saddle Of Pork,HAMBURGERRYG FRILANDS,17.95,12.0,5.95
-3000,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,Unknown,Sun Flower Seeded Rye Breads,SOLSIKKERUGBRØD SALLING,8.95,7.0,1.95
-3000,Dairy And Cold Storage,Dairy,Cheese,Blue Cheese Brie,Blue Cheese Brie,GORGONZOLA LA CAMPAGNA,22.95,14.0,8.95
-3000,Dairy And Cold Storage,Lunch Meats,Meat,Corned Beef,Corned Beef,SALTKØD 3 STJERNET,19.95,9.0,10.95
-3000,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,SANDW.KLAP HAVR HATTING,24.95,16.0,8.95
-3000,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,SOMMERGRILLER CARL V.,39.95,21.0,18.95
-3000,Dairy And Cold Storage,Dairy,Cheese,Mozarella,Mozarella,BURRATA PESTO ZANETTI,28.95,19.0,9.95
-3000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,BACON POSTEJ SALLING,14.95,10.0,4.95
-3000,Dairy And Cold Storage,Lunch Meats,Meat Balls,Unknown,Meat Balls,FRIKADELLER SALLING,19.75,15.0,4.75
-3000,Bread And Cakes,Light Breads Dark Breads,Toast Breads,Unknown,Toast Breads,MIDDELHAVSBRØD PÅGEN,32.95,15.0,17.95
-3000,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,TRIO HUMMUS SALLING,24.95,15.0,9.95
-3000,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,Unknown,Pesto Hummus,TRØFFEL MAYO SALLING,24.95,18.0,6.95
-3000,Dairy And Cold Storage,Dairy,Milk,Semiskimmed Milk,Semiskimmed Milk,ØKO MINIMÆLK NATURMÆLK,10.75,8.0,2.75
-3000,Dairy And Cold Storage,Lunch Meats,Meat,Salami,Salami,OKSESPEGEPØLSE FRILANDS,16.95,12.0,4.95
-3000,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Drinking Yoghurt Kids Yoghurt,Drinking Yoghurt Kids Yoghurt,JORDBÆR DRIKYOG ACTIMEL,23.95,11.0,12.95
-3000,Meat Fish,Pork,Roasted Whole Pork Pieces,Pork Tenderloin,Pork Tenderloin,MØRBRAD ANTONIUS,69.95,42.0,27.95
-3000,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,Unknown,Liver Paste Patee,GROV POSTEJ STRYHNS,29.95,16.0,13.95
-3000,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,RULLEPØLSE FRILANDS,19.75,12.0,7.75
-3000,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,RULLEPØLSE AALBÆK,22.95,14.0,8.95
-3000,Dairy And Cold Storage,Lunch Meats,Meat,Roastbeef,Roastbeef,ROASTBEEF 3 STJERNET,20.95,10.0,10.95
-3000,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Poultry Mayo Salads,Poultry Mayo Salads,HØNSESALAT BUDGET,15.95,12.0,3.95
-3000,Dairy And Cold Storage,Potato Accessories,Prepared Potatoes,Unknown,Prepared Potatoes,SMÅ KARTOF. PEKA,15.95,12.0,3.95
-3000,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,Pork Sausages,HOTDOGPØLSER STEFF H.,36.25,20.0,16.25
-3000,Dairy And Cold Storage,Sauces Dressings,Dressings,Unknown,Dressings,KLASSISK DRES SUPER KRÆS,21.95,17.0,4.95
-3000,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,Sausage Roll,RØGET RULLEPØLS 3 STJERNET,17.95,10.0,7.95
-3000,Beverages,Energy Drinks Sport Drinks,Sport Drinks,Unknown,Sport Drinks,KOMBUCHA INGEFÆ LÆSK,20.95,14.0,6.95
+zip_code,store_name,store_street,description,original_price,new_price,discount,category1,category2,category3,category4,category5,category6,category7,category8,category9,category10,final_category
+2400,Netto Emdrupvej,Emdrupvej 107,KERNERUGBRØD ØGO,15.95,8,7.95,Bread And Cakes,Rye Breads,Seeded Rye Breads,,,,,,,,Seeded Rye Breads
+2400,Netto Emdrupvej,Emdrupvej 107,JUICE HINDBÆR SOLBÆR INNOCENT,20.0,15,5.0,Beverages,Juice Smoothies,Multi Fruit Juices,,,,,,,,Multi Fruit Juices
+2400,Netto Emdrupvej,Emdrupvej 107,MANGO/PASS LØGISMOSE,15.0,6,9.0,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,,,,,,,Yoghurt
+2400,Netto Emdrupvej,Emdrupvej 107,KRABBESALAT K-SALAT,19.95,10,9.95,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Fish Mayo Salads,,,,,,,Fish Mayo Salads
+2400,Netto Emdrupvej,Emdrupvej 107,SKOVBÆR DRIK ACTIMEL,20.0,12,8.0,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Drinking Yoghurt Kids Yoghurt,,,,,,,Drinking Yoghurt Kids Yoghurt
+2400,Netto Emdrupvej,Emdrupvej 107,ITALIENSK SALAT GRAASTEN,12.0,9,3.0,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Italian Mayo Salads,,,,,,,Italian Mayo Salads
+2400,Netto Emdrupvej,Emdrupvej 107,DET GODE GULEROD SCHULSTAD,14.95,11,3.95,Bread And Cakes,Rye Breads,Rye Breads With Carrots,,,,,,,,Rye Breads With Carrots
+2400,Netto Emdrupvej,Emdrupvej 107,INNER WINNER INNOCENT,20.0,15,5.0,Beverages,Juice Smoothies,Multi Fruit Juices,,,,,,,,Multi Fruit Juices
+2400,Netto Emdrupvej,Emdrupvej 107,OKSESPEGEPØLSE ØGO,15.95,8,7.95,Dairy And Cold Storage,Lunch Meats,Meat,Salami,Dairy And Cold Storage,Tapas Specialities,Cold Cuts Specialities,,,,Cold Cuts Specialities
+2400,Netto Emdrupvej,Emdrupvej 107,ÆBLEJUICE INNOCENT,20.0,15,5.0,Beverages,Juice Smoothies,Apple Juices,,,,,,,,Apple Juices
+2400,Netto Emdrupvej,Emdrupvej 107,RØGET MEDISTER 3-STJERNET,17.95,9,8.95,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,,,,,,,Meat Sausage
+2400,Netto Emdrupvej,Emdrupvej 107,HAMBURGERRYG PÅLÆKKER,15.95,8,7.95,Dairy And Cold Storage,Lunch Meats,Meat,Smoked Saddle Of Pork,,,,,,,Smoked Saddle Of Pork
+2400,Netto Emdrupvej,Emdrupvej 107,JORD/BANAN DRIK ACTIMEL,20.0,15,5.0,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Drinking Yoghurt Kids Yoghurt,,,,,,,Drinking Yoghurt Kids Yoghurt
+2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,FRØ & HAVSALT WASA,20.0,15,5.0,Bread And Cakes,Crackers Crisp Bread,Crisp Bread,,,,,,,,Crisp Bread
+2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,BEARNAISESAUCE S. COOKING,12.0,9,3.0,,,,,,,,,,,
+2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,SKÆREOST 45+ XL RIBERHUS,55.0,41,14.0,Dairy And Cold Storage,Dairy,Cheese,Cheese For Slicing,,,,,,,Cheese For Slicing
+2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,KRYDDERBOLLER FK GAMLE MØLLE,10.5,8,2.5,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,BIERWURST EGELYKKE,10.95,8,2.95,Dairy And Cold Storage,Lunch Meats,Meat,Salami,,,,,,,Salami
+2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,PØLSER M. BACON GEIA,25.0,18,7.0,,,,,,,,,,,
+2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,SØDMÆLKSBRØD SCHULSTAD,20.0,15,5.0,Bread And Cakes,Light Breads Dark Breads,Whole Breads,,,,,,,,Whole Breads
+2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,SOLSKINSBOLLER KOHBERG,22.75,12,10.75,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,KERNERUGBRØD ØGO,15.95,12,3.95,Bread And Cakes,Rye Breads,Seeded Rye Breads,,,,,,,,Seeded Rye Breads
+2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,KRYDDERBOLLER GAMLE MØLLE,8.5,6,2.5,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,KARTOFFEL SANDWICH KOHBERG,14.95,11,3.95,Bread And Cakes,Light Breads Dark Breads,Toast Breads,,,,,,,,Toast Breads
+2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,SANDWICH RUGBRØ LEVEBRØD,14.95,11,3.95,Bread And Cakes,Light Breads Dark Breads,Toast Breads,,,,,,,,Toast Breads
+2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,SCHWARZBROT GAMLE MØLLE,8.0,6,2.0,Bread And Cakes,Rye Breads,Other Rye Breads,,,,,,,,Other Rye Breads
+2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,DET GODE GULEROD SCHULSTAD,14.95,11,3.95,Bread And Cakes,Rye Breads,Rye Breads With Carrots,,,,,,,,Rye Breads With Carrots
+2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,FULDKORNSBOLLER SCHULSTAD,25.0,19,6.0,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,RULLEPØLSE EGELYKKE,14.5,11,3.5,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,,,,,,,Sausage Roll
+2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,MULTIKERNE BOLLER SCHULSTAD,25.0,13,12.0,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,SOLSIKKE KOHBERG,21.95,11,10.95,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,,,,,,,,Sun Flower Seeded Rye Breads
+2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,SOLSTYKKER PÅGEN,23.95,12,11.95,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Utterslevvej,Utterslevvej 11,KARRY SALAT GRAASTEN,12.0,9,3.0,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Other Mayo Salads,,,,,,,Other Mayo Salads
+2400,Netto Utterslevvej,Utterslevvej 11,HAMMEL SPEGEPØLSE DELIKA,19.95,10,9.95,Dairy And Cold Storage,Lunch Meats,Meat,Salami,,,,,,,Salami
+2400,Netto Utterslevvej,Utterslevvej 11,FRIKADELLEPØLSE EGELYKKE,14.95,9,5.95,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,,,,,,,Sliced Lunch Meats
+2400,Netto Utterslevvej,Utterslevvej 11,ØKO SKUMMETMÆLK LØGISMOSE,17.0,11,6.0,Dairy And Cold Storage,Dairy,Milk,Nonfat Milk,,,,,,,Nonfat Milk
+2400,Netto Utterslevvej,Utterslevvej 11,FLÆSKESTEG VELSMAG,89.95,71,18.95,Meat Fish,Pork,Other Pork,Meat Fish,Pork,Roasted Whole Pork Pieces,Roasted Pork,,,,Roasted Pork
+2400,Netto Utterslevvej,Utterslevvej 11,HVIDLØGSPATÉ LA CAMPAGNA,18.75,10,8.75,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,,,,,,,,Liver Paste Patee
+2400,Netto Utterslevvej,Utterslevvej 11,FLÆSK I SKIVER VELSMAG,39.95,30,9.95,Meat Fish,Pork,Pork Chops Pork Schnitzels,,,,,,,,Pork Chops Pork Schnitzels
+2400,Netto Utterslevvej,Utterslevvej 11,MARINERET SVINEFILET VELSMAG,44.95,35,9.95,Meat Fish,Pork,Roasted Whole Pork Pieces,Pork Tenderloin,,,,,,,Pork Tenderloin
+2400,Netto Utterslevvej,Utterslevvej 11,KERNEGROV SCHULSTAD,25.0,13,12.0,Bread And Cakes,Rye Breads,Seeded Rye Breads,,,,,,,,Seeded Rye Breads
+2400,Netto Utterslevvej,Utterslevvej 11,DET GODE SOL RUGBRØD SCHULSTAD,25.5,13,12.5,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,,,,,,,,Sun Flower Seeded Rye Breads
+2400,Netto Utterslevvej,Utterslevvej 11,KRYDDERBOLLER GAMLE MØLLE,8.5,6,2.5,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Utterslevvej,Utterslevvej 11,SOLSKINSBOLLER KOHBERG,22.75,12,10.75,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Utterslevvej,Utterslevvej 11,HERKULES KOHBERG,21.95,11,10.95,Bread And Cakes,Rye Breads,Seeded Rye Breads,,,,,,,,Seeded Rye Breads
+2400,Netto Utterslevvej,Utterslevvej 11,DET GODE SOL RUGBRØD SCHULSTAD,13.25,10,3.25,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,,,,,,,,Sun Flower Seeded Rye Breads
+2400,Netto Utterslevvej,Utterslevvej 11,FLÆSK I SKIVER VELSMAG,68.95,42,26.95,Meat Fish,Pork,Pork Chops Pork Schnitzels,,,,,,,,Pork Chops Pork Schnitzels
+2400,Netto Utterslevvej,Utterslevvej 11,KERNERUGBRØD ØGO,15.95,9,6.95,Bread And Cakes,Rye Breads,Seeded Rye Breads,,,,,,,,Seeded Rye Breads
+2400,Netto Utterslevvej,Utterslevvej 11,MEDISTER VELSMAG,34.95,21,13.95,Meat Fish,Pork,Thick Sausages,,,,,,,,Thick Sausages
+2400,Netto Utterslevvej,Utterslevvej 11,SOLSIKKE RUGBRØD ØGO,9.75,7,2.75,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,,,,,,,,Sun Flower Seeded Rye Breads
+2400,Netto Utterslevvej,Utterslevvej 11,MEDISTER VELSMAG,20.0,15,5.0,,,,,,,,,,,
+2400,Netto Utterslevvej,Utterslevvej 11,KOTELETTER VELSMAG,69.95,44,25.95,Meat Fish,Pork,Pork Chops Pork Schnitzels,,,,,,,,Pork Chops Pork Schnitzels
+2400,Netto Utterslevvej,Utterslevvej 11,MAR. NAKKEKOT. VELSMAG,65.95,51,14.95,Meat Fish,Pork,Pork Chops Pork Schnitzels,,,,,,,,Pork Chops Pork Schnitzels
+2400,Netto Utterslevvej,Utterslevvej 11,TANTE K. SPEGE BORNHOLMER,10.0,7,3.0,,,,,,,,,,,
+2400,Netto Utterslevvej,Utterslevvej 11,MULTIKERNE BOLLER SCHULSTAD,25.0,13,12.0,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Utterslevvej,Utterslevvej 11,DET GODE GULEROD SCHULSTAD,14.95,10,4.95,Bread And Cakes,Rye Breads,Rye Breads With Carrots,,,,,,,,Rye Breads With Carrots
+2400,Netto Utterslevvej,Utterslevvej 11,FANØ BRØD SIGNATURBRØD,25.5,13,12.5,Bread And Cakes,Rye Breads,Other Rye Breads,,,,,,,,Other Rye Breads
+2400,Netto Utterslevvej,Utterslevvej 11,KYL.BRYST M/URTER MINIMUM,15.5,8,7.5,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,,,,,,,Cold Cuts Chicken
+2400,Netto Utterslevvej,Utterslevvej 11,FLÆSK I SKIVER VELSMAG,17.0,13,4.0,,,,,,,,,,,
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,SPARERIBS TULIP,49.95,31,18.95,Meat Fish,spareribs Barbecue Meat,,,,,,,,,spareribs Barbecue Meat
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,KYLLINGETERN NÆMT,14.25,11,3.25,Dairy And Cold Storage,Bacon Sausages Toppings,Other Toppings,,,,,,,,Other Toppings
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,HONNINGSKINKE MINIMUM,15.95,10,5.95,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Ham,,,,,,,Cold Cuts Ham
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,TARTELETFYLD PREMIEUR,50.0,25,25.0,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,,,,,,,,Dinner Meals
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,MAJSKAGER PIZZA GOODFOOD,12.0,7,5.0,Bread And Cakes,Crackers Crisp Bread,Crackers,Rice Crackers Corn Crackers,,,,,,,Rice Crackers Corn Crackers
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,BRØDSTÆNGER BREZELINO,20.0,11,9.0,Bread And Cakes,Crackers Crisp Bread,Crackers,Salted Crackers,,,,,,,Salted Crackers
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,HOTDOGPØLSER STEFF HOULBERG,32.95,19,13.95,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,,,,,,,Pork Sausages
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,WRAP M/KYLLING/KARRY NÆMT,22.95,18,4.95,Dairy And Cold Storage,Ready To Eat Meals,Sandwiches Wraps,,,,,,,,Sandwiches Wraps
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,SMAGFULD BOLLER KOHBERG,24.95,15,9.95,Bread And Cakes,Light Breads Dark Breads,Whole Breads,,,,,,,,Whole Breads
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,SOLSTYKKER PÅGEN,23.95,12,11.95,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,SKOVMAND SCHULSTAD,13.25,10,3.25,Bread And Cakes,Rye Breads,Seeded Rye Breads,,,,,,,,Seeded Rye Breads
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,DET GODE GULEROD SCHULSTAD,14.95,11,3.95,Bread And Cakes,Rye Breads,Rye Breads With Carrots,,,,,,,,Rye Breads With Carrots
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,FULDKORNSBOLLER SCHULSTAD,25.0,19,6.0,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,KARTOFFEL SANDWICH KOHBERG,14.95,11,3.95,Bread And Cakes,Light Breads Dark Breads,Toast Breads,,,,,,,,Toast Breads
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,SOLSKINSBOLLER KOHBERG,22.75,12,10.75,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,KRYDDERBOLLER GAMLE MØLLE,8.5,6,2.5,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,KYL/KARRY PASTA TPK,34.95,27,7.95,Dairy And Cold Storage,Ready To Eat Meals,Dinner Salads,,,,,,,,Dinner Salads
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,SESAM HAVSALT WASA,25.0,19,6.0,Bread And Cakes,Crackers Crisp Bread,Crisp Bread,,,,,,,,Crisp Bread
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,BIERWURST EGELYKKE,10.95,8,2.95,Dairy And Cold Storage,Lunch Meats,Meat,Salami,,,,,,,Salami
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,TARTELETTER PREMIEUR,18.0,14,4.0,Bread And Cakes,Bread Specialities,Tartlets,,,,,,,,Tartlets
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,BURGUNDERSKINKE MINIMUM,15.95,10,5.95,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Ham,,,,,,,Cold Cuts Ham
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,BACH SCHINKE SMAGEN AF AARHUS,17.95,9,8.95,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Ham,,,,,,,Cold Cuts Ham
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,TPK ITALIAN PASTA TPK,34.95,20,14.95,Dairy And Cold Storage,Ready To Eat Meals,Dinner Salads,,,,,,,,Dinner Salads
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,BRIOCHE HOTDOG NORDTHY,15.0,11,4.0,,,,,,,,,,,
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,HERKULES KOHBERG,21.95,11,10.95,Bread And Cakes,Rye Breads,Seeded Rye Breads,,,,,,,,Seeded Rye Breads
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,SOLSIKKE KOHBERG,21.95,11,10.95,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,,,,,,,,Sun Flower Seeded Rye Breads
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,FRANSK LEVERPOSTEJ STRYHNS,29.95,15,14.95,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,,,,,,,,Liver Paste Patee
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,OKSEBRYST SMAGEN AF AARHUS,17.95,9,8.95,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,,,,,,,Sliced Lunch Meats
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,MULTIKERNE BOLLER SCHULSTAD,25.0,13,12.0,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Tomsgårdsvej,Tomsgårdsvej 24,GULERODSBOLLER GAMLE MØLLE,15.95,12,3.95,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Lygten,Lygten 53,DET GODE SOL BOLLER SCHULSTAD,25.5,13,12.5,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Lygten,Lygten 53,SMOOTHIE JORDBÆR FRUGTKOMPAGNIET,10.0,7,3.0,Beverages,Juice Smoothies,Smoothies,,,,,,,,Smoothies
+2400,Netto Lygten,Lygten 53,MULTIKERNE BOLLER SCHULSTAD,25.0,10,15.0,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Lygten,Lygten 53,RUGBRØDSBOLLER KOHBERG,23.95,19,4.95,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Lygten,Lygten 53,RØGET MEDISTER STRYHNS,29.95,18,11.95,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,,,,,,,Meat Sausage
+2400,Netto Lygten,Lygten 53,ØKO KÆRNEMÆLK LØGISMOSE,13.95,11,2.95,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Buttermilk,,,,,,,Buttermilk
+2400,Netto Lygten,Lygten 53,BLINIS PREMIEUR,20.0,15,5.0,,,,,,,,,,,
+2400,Netto Lygten,Lygten 53,YOGHURT PEACH MELBA EGELYKKE,18.95,10,8.95,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,,,,,,,Yoghurt
+2400,Netto Lygten,Lygten 53,KOTELETTER VELSMAG,47.5,29,18.5,Meat Fish,Pork,Pork Chops Pork Schnitzels,,,,,,,,Pork Chops Pork Schnitzels
+2400,Netto Lygten,Lygten 53,SOLSTYKKER PÅGEN,23.95,13,10.95,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Lygten,Lygten 53,SOLSIKKE KOHBERG,21.95,11,10.95,Bread And Cakes,Rye Breads,Sun Flower Seeded Rye Breads,,,,,,,,Sun Flower Seeded Rye Breads
+2400,Netto Lygten,Lygten 53,GILLELEJE HAVN SCHULSTAD,14.95,11,3.95,Bread And Cakes,Rye Breads,Seeded Rye Breads,,,,,,,,Seeded Rye Breads
+2400,Netto Lygten,Lygten 53,PROTEINBRØD KOHBERG,25.95,20,5.95,Bread And Cakes,Rye Breads,Seeded Rye Breads,,,,,,,,Seeded Rye Breads
+2400,Netto Lygten,Lygten 53,DET GODE GULEROD SCHULSTAD,14.95,10,4.95,Bread And Cakes,Rye Breads,Rye Breads With Carrots,,,,,,,,Rye Breads With Carrots
+2400,Netto Lygten,Lygten 53,RISENGRØD NÆMT,24.95,19,5.95,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,,,,,,,,Dinner Meals
+2400,Netto Lygten,Lygten 53,FLÆSK I SKIVER VELSMAG,68.95,42,26.95,Meat Fish,Pork,Pork Chops Pork Schnitzels,,,,,,,,Pork Chops Pork Schnitzels
+2400,Netto Lygten,Lygten 53,BURGUNDERSKINKE MINIMUM,15.95,9,6.95,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Ham,,,,,,,Cold Cuts Ham
+2400,Netto Lygten,Lygten 53,RULLEPØLSE EGELYKKE,14.5,11,3.5,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,,,,,,,Sausage Roll
+2400,Netto Lygten,Lygten 53,KARTOFFEL SANDWICH KOHBERG,14.95,9,5.95,Bread And Cakes,Light Breads Dark Breads,Toast Breads,,,,,,,,Toast Breads
+2400,Netto Lygten,Lygten 53,ØKO SKYR JOR/RA LØGISMOSE,10.0,7,3.0,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Yoghurt,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Skyr,,,Skyr
+2400,Netto Lygten,Lygten 53,JAVISST PÅGEN,23.95,10,13.95,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Stærevej,Stærevej 74,OKSEBRYST SMAGEN AF AARHUS,17.95,9,8.95,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,,,,,,,Sliced Lunch Meats
+2400,Netto Stærevej,Stærevej 74,KYLLINGESAUCE JENSENS,12.0,9,3.0,,,,,,,,,,,
+2400,Netto Stærevej,Stærevej 74,RULLEPØLSE SMAGEN AF AARHUS,17.95,9,8.95,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,,,,,,,Sausage Roll
+2400,Netto Stærevej,Stærevej 74,SMAGFULD BOLLER KOHBERG,24.95,19,5.95,Bread And Cakes,Light Breads Dark Breads,Whole Breads,,,,,,,,Whole Breads
+2400,Netto Stærevej,Stærevej 74,DET GODE GULEROD SCHULSTAD,14.95,11,3.95,Bread And Cakes,Rye Breads,Rye Breads With Carrots,,,,,,,,Rye Breads With Carrots
+2400,Netto Stærevej,Stærevej 74,KAKAOMÆLK DÅSE MATILDE,5.0,3,2.0,Dairy And Cold Storage,Dairy,Cold Coffee Drinks Cacao,,,,,,,,Cold Coffee Drinks Cacao
+2400,Netto Stærevej,Stærevej 74,MULTIKERNE BOLLER SCHULSTAD,25.0,13,12.0,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Stærevej,Stærevej 74,KOLDSKÅL KLØVER,19.0,15,4.0,Dairy And Cold Storage,Dairy,Cold Butter Milk Soup,,,,,,,,Cold Butter Milk Soup
+2400,Netto Stærevej,Stærevej 74,EMPANADAS OKSE LOS TAQUEROS,35.0,27,8.0,,,,,,,,,,,
+2400,Netto Stærevej,Stærevej 74,MEDISTER VELSMAG,34.95,21,13.95,Meat Fish,Pork,Thick Sausages,,,,,,,,Thick Sausages
+2400,Netto Tuborgvej,Tuborgvej 239,FRANKFURTER PØLSEMESTEREN,29.95,23,6.95,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,,,,,,,Pork Sausages
+2400,Netto Tuborgvej,Tuborgvej 239,JUICE HINDBÆR SOLBÆR INNOCENT,20.0,15,5.0,Beverages,Juice Smoothies,Multi Fruit Juices,,,,,,,,Multi Fruit Juices
+2400,Netto Tuborgvej,Tuborgvej 239,BEARNAISESAUCE S. COOKING,12.0,9,3.0,,,,,,,,,,,
+2400,Netto Tuborgvej,Tuborgvej 239,RIS M/KYLLING/LEMON NÆMT,30.0,18,12.0,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,,,,,,,,Dinner Meals
+2400,Netto Tuborgvej,Tuborgvej 239,SOLSIKKESTYKKER GAMLE MØLLE,15.95,8,7.95,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Tuborgvej,Tuborgvej 239,FLYDENDE AMA,17.95,15,2.95,Dairy And Cold Storage,Dairy,Butter Fats,Margarine,,,,,,,Margarine
+2400,Netto Tuborgvej,Tuborgvej 239,SKAFTEKOTELET PREMIEUR,34.95,24,10.95,Meat Fish,Pork,Pork Chops Pork Schnitzels,,,,,,,,Pork Chops Pork Schnitzels
+2400,Netto Tuborgvej,Tuborgvej 239,GRILLPØLSER PØLSEMESTEREN,32.95,22,10.95,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,,,,,,,Pork Sausages
+2400,Netto Tuborgvej,Tuborgvej 239,FRANSK LEVERPOSTEJ STRYHNS,29.95,15,14.95,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,,,,,,,,Liver Paste Patee
+2400,Netto Tuborgvej,Tuborgvej 239,GRILLPØLSER ØGO,39.95,24,15.95,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Pork Sausages,,,,,,,Pork Sausages
+2400,Netto Tuborgvej,Tuborgvej 239,BACON POSTEJ STRYHNS,29.95,15,14.95,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,,,,,,,,Liver Paste Patee
+2400,Netto Tuborgvej,Tuborgvej 239,EMPANADAS OKSE LOS TAQUEROS,35.0,16,19.0,,,,,,,,,,,
+2400,Netto Tuborgvej,Tuborgvej 239,MULTIKERNE BOLLER SCHULSTAD,25.0,13,12.0,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
+2400,Netto Tuborgvej,Tuborgvej 239,KARTOFFEL SANDWICH KOHBERG,14.95,11,3.95,Bread And Cakes,Light Breads Dark Breads,Toast Breads,,,,,,,,Toast Breads
+2400,Netto Tuborgvej,Tuborgvej 239,LEVAIN SURDEJ PÅGEN,20.0,15,5.0,Bread And Cakes,Light Breads Dark Breads,Toast Breads,,,,,,,,Toast Breads
+2400,Netto Tuborgvej,Tuborgvej 239,PLANTGURT M/ LIME ALPRO,21.5,11,10.5,Dairy And Cold Storage,Dairy,Plant Based Alternatives,Plant Based Yoghurt Alternatives,,,,,,,Plant Based Yoghurt Alternatives
+2400,Netto Tuborgvej,Tuborgvej 239,SERRANO CASA CZAJA,25.0,13,12.0,,,,,,,,,,,
+2400,Netto Tuborgvej,Tuborgvej 239,RØGET MØRBRAD PREMIEUR,29.95,18,11.95,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,,,,,,,Sliced Lunch Meats
+2400,Netto Tuborgvej,Tuborgvej 239,BACH SCHINKE SMAGEN AF AARHUS,17.95,10,7.95,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Ham,,,,,,,Cold Cuts Ham
+2400,Netto Tuborgvej,Tuborgvej 239,MADLAVNING 7% AMA,13.95,8,5.95,Dairy And Cold Storage,Dairy,Plant Based Alternatives,Plant Based Cream Alternatives,,,,,,,Plant Based Cream Alternatives
+2400,Netto Tuborgvej,Tuborgvej 239,SAN. KYLLING PÅLÆKKER,15.95,8,7.95,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,,,,,,,Cold Cuts Chicken
+2400,Netto Tuborgvej,Tuborgvej 239,HAMBURGERRYG PÅLÆKKER,15.95,5,10.95,Dairy And Cold Storage,Lunch Meats,Meat,Smoked Saddle Of Pork,,,,,,,Smoked Saddle Of Pork
+2400,Netto Tuborgvej,Tuborgvej 239,RØD I SKIVER PRIMA DONNA,34.95,19,15.95,Dairy And Cold Storage,Dairy,Cheese,Sliced Cheese,,,,,,,Sliced Cheese
+2400,Netto Tuborgvej,Tuborgvej 239,KYL.BRYST M/URTER MINIMUM,15.5,8,7.5,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,,,,,,,Cold Cuts Chicken
+2400,Netto Tuborgvej,Tuborgvej 239,RØGET MEDISTER 3-STJERNET,17.95,9,8.95,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,,,,,,,Meat Sausage
+2400,Netto Tuborgvej,Tuborgvej 239,RØGET FILET PÅLÆKKER,17.95,9,8.95,Dairy And Cold Storage,Lunch Meats,Meat,Sliced Lunch Meats,,,,,,,Sliced Lunch Meats
+2400,Netto Tuborgvej,Tuborgvej 239,MADLAVNING 15% AMA,13.95,3,10.95,Dairy And Cold Storage,Dairy,Plant Based Alternatives,Plant Based Cream Alternatives,,,,,,,Plant Based Cream Alternatives
+2400,Netto Tuborgvej,Tuborgvej 239,KYLLING & OKSE 3-STJERNET,10.0,6,4.0,,,,,,,,,,,
+2400,Netto Tuborgvej,Tuborgvej 239,ORGINAL SKIVER LEERDAMMER,32.95,17,15.95,Dairy And Cold Storage,Dairy,Cheese,Sliced Cheese,,,,,,,Sliced Cheese
