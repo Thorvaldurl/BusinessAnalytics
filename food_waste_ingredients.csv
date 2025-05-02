@@ -15,16 +15,15 @@ zip_code,store_name,store_street,description,original_price,new_price,discount,c
 2400,Netto Emdrupvej,Emdrupvej 107,BACONSTRIMLER BRUNCHY,21.95,17,4.95,Dairy And Cold Storage,Bacon Sausages Toppings,Bacon,Chopped Bacon Bits,,,,,,,Chopped Bacon Bits
 2400,Netto Emdrupvej,Emdrupvej 107,BACON-PEBER POSTEJ STRYHNS,24.95,13,11.95,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,,,,,,,,Liver Paste Patee
 2400,Netto Emdrupvej,Emdrupvej 107,BACON I SKIVER EGELYKKE,31.95,25,6.95,Dairy And Cold Storage,Bacon Sausages Toppings,Bacon,Sliced Bacon,,,,,,,Sliced Bacon
-2400,Netto Emdrupvej,Emdrupvej 107,FYLDT RØD PEBER LA CAMPAGNA,19.95,15,4.95,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,,,,,,,,Olives Other Attachments
 2400,Netto Emdrupvej,Emdrupvej 107,SKINKESALAT K-SALAT,19.95,10,9.95,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Pork Mayo Salads,,,,,,,Pork Mayo Salads
 2400,Netto Emdrupvej,Emdrupvej 107,SPICY HUMMUS LA CAMPAGNA,19.95,15,4.95,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,,,,,,,,Pesto Hummus
 2400,Netto Emdrupvej,Emdrupvej 107,GROVHAK. LEVERPOSTEJ EGELYKKE,14.5,11,3.5,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,,,,,,,,Liver Paste Patee
 2400,Netto Emdrupvej,Emdrupvej 107,CREME FRISK 18% NATURLI,12.95,10,2.95,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Creme Fraiche Quark,,,,,,,Creme Fraiche Quark
 2400,Netto Emdrupvej,Emdrupvej 107,RULLEPØLSE PÅLÆKKER,15.95,9,6.95,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,,,,,,,Sausage Roll
-2400,Netto Emdrupvej,Emdrupvej 107,HAMBURGERRYG EGELYKKE,15.5,12,3.5,Dairy And Cold Storage,Lunch Meats,Meat,Smoked Saddle Of Pork,,,,,,,Smoked Saddle Of Pork
 2400,Netto Emdrupvej,Emdrupvej 107,CHILI HUMMUS LA CAMPAGNA,19.95,10,9.95,Dairy And Cold Storage,Tapas Specialities,Pesto Hummus,,,,,,,,Pesto Hummus
 2400,Netto Emdrupvej,Emdrupvej 107,ITALIENSK SALAT K-SALAT,12.0,9,3.0,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Italian Mayo Salads,,,,,,,Italian Mayo Salads
 2400,Netto Emdrupvej,Emdrupvej 107,CREAMY WHITE CASTELLO,14.0,11,3.0,Dairy And Cold Storage,Dairy,Cheese,Blue Cheese Brie,,,,,,,Blue Cheese Brie
+2400,Netto Emdrupvej,Emdrupvej 107,HAMBURGERRYG EGELYKKE,15.5,12,3.5,Dairy And Cold Storage,Lunch Meats,Meat,Smoked Saddle Of Pork,,,,,,,Smoked Saddle Of Pork
 2400,Netto Emdrupvej,Emdrupvej 107,RULLEPØLSE EGELYKKE,14.5,11,3.5,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,,,,,,,Sausage Roll
 2400,Netto Emdrupvej,Emdrupvej 107,PLANTEPOSTEJ HANEGAL,18.95,10,8.95,Dairy And Cold Storage,Lunch Meats,Plant Based Toppings,,,,,,,,Plant Based Toppings
 2400,Netto Emdrupvej,Emdrupvej 107,VITAMIN SMOOTHIE VALSØLILLE,22.95,16,6.95,Beverages,Juice Smoothies,Smoothies,,,,,,,,Smoothies
@@ -35,12 +34,13 @@ zip_code,store_name,store_street,description,original_price,new_price,discount,c
 2400,Netto Emdrupvej,Emdrupvej 107,GREVEFEDT LAMPE,15.0,11,4.0,,,,,,,,,,,
 2400,Netto Emdrupvej,Emdrupvej 107,ØKO LETMÆLK LØGISMOSE,17.25,11,6.25,Dairy And Cold Storage,Dairy,Milk,Skimmed Milk,,,,,,,Skimmed Milk
 2400,Netto Emdrupvej,Emdrupvej 107,ØKO KÆRNEMÆLK LØGISMOSE,13.95,8,5.95,Dairy And Cold Storage,Dairy,Yoghurt Soured Milk Products,Buttermilk,,,,,,,Buttermilk
-2400,Netto Emdrupvej,Emdrupvej 107,PIZZADEJ ØGO,14.95,11,3.95,Dairy And Cold Storage,Fresh Dough And Pancakes,fresh Dough,,,,,,,,fresh Dough
 2400,Netto Emdrupvej,Emdrupvej 107,KALKUNBRYST EGELYKKE,15.5,12,3.5,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Turkey,,,,,,,Cold Cuts Turkey
 2400,Netto Emdrupvej,Emdrupvej 107,GROVHAK. LEVERPOSTEJ STRYHNS,29.95,15,14.95,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,,,,,,,,Liver Paste Patee
 2400,Netto Emdrupvej,Emdrupvej 107,TØRSALTET BACON AALBÆK,10.0,7,3.0,Dairy And Cold Storage,Bacon Sausages Toppings,Bacon,Sliced Bacon,,,,,,,Sliced Bacon
 2400,Netto Emdrupvej,Emdrupvej 107,OKSEPØLSER ØGO,39.95,25,14.95,Dairy And Cold Storage,Bacon Sausages Toppings,Sausages,Beef Sausages,,,,,,,Beef Sausages
 2400,Netto Emdrupvej,Emdrupvej 107,RULLEPØLSE SMAGEN AF AARHUS,17.95,13,4.95,Dairy And Cold Storage,Lunch Meats,Meat,Sausage Roll,,,,,,,Sausage Roll
+2400,Netto Emdrupvej,Emdrupvej 107,PIZZADEJ ØGO,14.95,11,3.95,Dairy And Cold Storage,Fresh Dough And Pancakes,fresh Dough,,,,,,,,fresh Dough
+2400,Netto Emdrupvej,Emdrupvej 107,FYLDT RØD PEBER LA CAMPAGNA,19.95,15,4.95,Dairy And Cold Storage,Tapas Specialities,Olives Other Attachments,,,,,,,,Olives Other Attachments
 2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,SVINEMØRBRAD VELSMAG,126.95,82,44.95,Meat Fish,Pork,Roasted Whole Pork Pieces,Pork Tenderloin,,,,,,,Pork Tenderloin
 2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,RISOTTO CHAMPIG NÆMT,30.0,18,12.0,Dairy And Cold Storage,Ready To Eat Meals,Dinner Meals,,,,,,,,Dinner Meals
 2400,Netto Frederikssundsvej 52,Frederikssundsvej 52 ST.,KARTOFFEL SANDWICH KOHBERG,14.95,7,7.95,Bread And Cakes,Light Breads Dark Breads,Toast Breads,,,,,,,,Toast Breads
@@ -214,17 +214,17 @@ zip_code,store_name,store_street,description,original_price,new_price,discount,c
 2400,Netto Lygten,Lygten 53,BACON POSTEJ STRYHNS,29.95,15,14.95,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,,,,,,,,Liver Paste Patee
 2400,Netto Lygten,Lygten 53,RØGET MEDISTER 3-STJERNET,17.95,9,8.95,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,,,,,,,Meat Sausage
 2400,Netto Lygten,Lygten 53,KØDPØLSE 3-STJERNET,17.95,9,8.95,Dairy And Cold Storage,Lunch Meats,Meat,Meat Sausage,,,,,,,Meat Sausage
-2400,Netto Lygten,Lygten 53,SAN. KYL. TOMAT PÅLÆKKER,15.95,8,7.95,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,,,,,,,Cold Cuts Chicken
 2400,Netto Lygten,Lygten 53,BACON-PEBER POSTEJ STRYHNS,24.95,16,8.95,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,,,,,,,,Liver Paste Patee
-2400,Netto Lygten,Lygten 53,SPICY TUNSALAT K-SALAT,19.95,10,9.95,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Fish Mayo Salads,,,,,,,Fish Mayo Salads
 2400,Netto Lygten,Lygten 53,KRYDDERBOLLER GAMLE MØLLE,8.5,6,2.5,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
-2400,Netto Lygten,Lygten 53,ØKO LETMÆLK ARLA,15.25,12,3.25,Dairy And Cold Storage,Dairy,Milk,Skimmed Milk,,,,,,,Skimmed Milk
+2400,Netto Lygten,Lygten 53,BACON LEVERPOSTEJ TULIP,19.95,8,11.95,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,,,,,,,,Liver Paste Patee
+2400,Netto Lygten,Lygten 53,HK. GRIS 8-12% VELSMAG,37.95,23,14.95,Meat Fish,Pork,Minced Pork,,,,,,,,Minced Pork
 2400,Netto Lygten,Lygten 53,ØKO MINIMÆLK ARLA,13.75,10,3.75,Dairy And Cold Storage,Dairy,Milk,Semiskimmed Milk,,,,,,,Semiskimmed Milk
 2400,Netto Lygten,Lygten 53,FRANSK LEVERPOSTEJ STRYHNS,29.95,15,14.95,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,,,,,,,,Liver Paste Patee
-2400,Netto Lygten,Lygten 53,BACON LEVERPOSTEJ TULIP,19.95,8,11.95,Dairy And Cold Storage,Lunch Meats,Liver Paste Patee,,,,,,,,Liver Paste Patee
+2400,Netto Lygten,Lygten 53,SAN. KYL. TOMAT PÅLÆKKER,15.95,8,7.95,Dairy And Cold Storage,Lunch Meats,Meat,Cold Cuts Chicken,,,,,,,Cold Cuts Chicken
 2400,Netto Lygten,Lygten 53,SØDMÆLK ARLA,15.25,11,4.25,Dairy And Cold Storage,Dairy,Milk,Whole Milk,,,,,,,Whole Milk
+2400,Netto Lygten,Lygten 53,ØKO LETMÆLK ARLA,15.25,12,3.25,Dairy And Cold Storage,Dairy,Milk,Skimmed Milk,,,,,,,Skimmed Milk
 2400,Netto Lygten,Lygten 53,ØKO SKUMMETMÆLK ARLA,13.75,10,3.75,Dairy And Cold Storage,Dairy,Milk,Nonfat Milk,,,,,,,Nonfat Milk
-2400,Netto Lygten,Lygten 53,HK. GRIS 8-12% VELSMAG,37.95,23,14.95,Meat Fish,Pork,Minced Pork,,,,,,,,Minced Pork
+2400,Netto Lygten,Lygten 53,SPICY TUNSALAT K-SALAT,19.95,10,9.95,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Fish Mayo Salads,,,,,,,Fish Mayo Salads
 2400,Netto Stærevej,Stærevej 74,KRYDDERBOLLER FK GAMLE MØLLE,10.5,8,2.5,Bread And Cakes,Light Breads Dark Breads,Light Dark Buns,,,,,,,,Light Dark Buns
 2400,Netto Stærevej,Stærevej 74,TUNSALAT GRAASTEN,12.0,9,3.0,Dairy And Cold Storage,Lunch Meats,Mayo Salads,Fish Mayo Salads,,,,,,,Fish Mayo Salads
 2400,Netto Stærevej,Stærevej 74,HYTTEOST PROTEIN LAB,12.95,8,4.95,Dairy And Cold Storage,Dairy,Cheese,Cottage Cheese,,,,,,,Cottage Cheese
